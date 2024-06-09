@@ -1,0 +1,36 @@
+<div class="container">
+    <div class="card-body">
+        <svg (click)="onClose()" xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-x topright" viewBox="0 0 16 16">
+            <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
+          </svg>
+
+        <h1 class="text-center text-primary mb-5 mt-3 display-5" id="pageTitle">General Account Informations </h1>
+       <div class="container">
+        <div class="d-flex  my-5 align-items-center justify-content-evenly">
+            <div class="p-2 mx-5 "> <img [src]="imgURL"
+                    class="rounded-circle " alt="Avatar" style="width: 150px;" />
+            </div>
+            <div><p></p></div>
+            <div class="p-2"><h1  class=" display-6">{{profile.name}}</h1></div>
+        </div>
+
+        <div class="d-flex  my-3 align-items-start justify-content-evenly">
+            <div class="p-2"> 
+                <p class="h2 text-primary mb-3">Bots</p>
+                <p *ngFor="let b of profile.bots">{{b.title}}</p>
+            </div>
+            <div class="vr text-center"></div>
+            <div class="p-2">
+                <p class="h2 text-primary mb-3">About</p>
+                <p><span class="bold">Email: </span>{{profile.email}}</p>
+                <p><span>Gender: </span>{{profile.gender}}</p>
+
+
+            </div>
+        </div>
+        <div class="bottomright"><button type="button" class="btn btn-success" (click)="onBtnEditProfile()">Edit Profile</button></div>
+   
+    </div>
+
+    </div>
+</div>

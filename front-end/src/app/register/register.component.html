@@ -1,0 +1,96 @@
+<div class="container mt-5">
+  <div class="row d-flex justify-content-center">
+    <div class="col-md-6">
+        <div class="card p-4 py-5 ">
+          <div class="container mb-5">
+            <img
+              class="mb-4 rounded mx-auto d-block"
+              src="/assets/bot.png"
+              alt=""
+              width="72"
+              height="72"
+            />
+
+            <h2 class="text-center">Register Now!</h2>
+          </div>
+          <div class="d-flex flex-row">
+            <span class="mr-2">Already have an account ?</span>
+            <a routerLink="/signin" class="signin-link">Sign In here</a>
+          </div>
+          <form #myForm="ngForm" (ngSubmit)="submit(myForm)">
+          <div class="signup mt-3">
+            <p class="text-muted">Email:</p>
+
+            <input
+              type="text"
+              ngModel name="email"
+              required
+              email
+              class="form-control"
+              #myEmail
+              #email="ngModel"
+            />
+            <small
+            *ngIf="email.errors && email.errors['required'] && email.touched"
+            
+            >Email is required!</small>
+            <small
+            *ngIf="email.errors && email.errors['email'] && email.touched"
+  
+            >Email should be valid!</small>
+            <p class="text-muted">Full Name:</p>
+
+            <input
+              type="text"
+              ngModel
+              name="fullName"
+              required
+              class="form-control"
+              #fullName="ngModel"
+
+            />
+            <small
+            *ngIf="fullName.errors && fullName.errors['required'] && fullName.touched"
+            
+            >Full Name is required!</small>
+            <p class="text-muted">Password:</p>
+
+            <input
+              type="password"
+              ngModel
+              name="password"
+              required
+              minlength="8"
+              class="form-control"
+              #password="ngModel"
+
+            />
+          </div>
+          <small
+            *ngIf="password.errors && password.errors['required'] && password.touched"
+            
+            >Password is required!</small>
+            <small
+          *ngIf="password.errors && password.errors['minlength'] && email.touched"
+
+          >Password should be at least 8 character length!</small>
+
+          <div class="my-2">
+            <p class="text-muted">Gender:</p>
+            <select class="form-control" id="inlineFormCustomSelect" required (change)="update($event,myForm)" ngModel name="gender">
+              <option value="default" disabled [selected]>Gender...</option>
+              <option *ngFor="let g of genders" [value]="g">
+                {{g}}
+            </option>              
+            </select>
+          </div>
+
+          
+          <div class="mt-4">
+            <button class="btn btn-success button btn-block" type="submit" [disabled]="!myForm.valid">Register</button>
+          </div>
+        </form>
+        </div>
+    </div>
+  </div>
+</div>

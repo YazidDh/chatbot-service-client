@@ -1,0 +1,66 @@
+<div class="container mt-5">
+  <div class="row d-flex justify-content-center">
+    <div class="col-md-6">
+      <div class="card p-4 py-5">
+        <div class="container mb-3">
+          <img
+            class="mb-4 rounded mx-auto d-block"
+            src="/assets/bot.png"
+            alt=""
+            width="72"
+            height="72"
+          />
+
+          <h2 class="text-center">Login Now!</h2>
+        </div>
+<form #myForm="ngForm" (ngSubmit)="signin(myForm)">
+        <div class="signup mt-3">
+          <input type="text" ngModel name="email"  required
+          email class="form-control" placeholder="Email"  #myEmail #email="ngModel" />
+          <small
+          *ngIf="email.errors && email.errors['required'] && email.touched"
+          
+          >Email is required!</small>
+          <small
+          *ngIf="email.errors && email.errors['email'] && email.touched"
+
+          >Email should be valid!</small>
+
+          <input
+            type="password"
+            ngModel
+            name="password"
+           required
+            class="form-control"
+            placeholder="Password"
+            #password="ngModel"
+          />
+          <small *ngIf="!password.valid && password.touched">Password is required!</small>
+          
+        </div>
+
+        <!-- <div class="form-check form-switch mt-5">
+          <input
+            class="form-check-input"
+            type="checkbox"
+            id="flexSwitchCheckChecked"
+            checked
+          />
+          <label class="form-check-label" for="flexSwitchCheckChecked"
+            >Remember password?</label
+          >
+        </div> -->
+        <div class="mt-4">
+          <button class="btn btn-success button btn-block" type="submit" [disabled]="!myForm.valid">Sign in</button>
+        </div>
+</form>
+<div class="d-flex flex-row">
+  <br>
+  <span class="mr-2">Are a new member ?</span>
+  <a routerLink="/" class="signin-link">Create an account</a>
+</div>
+
+      </div>
+    </div>
+  </div>
+</div>

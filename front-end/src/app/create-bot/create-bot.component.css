@@ -1,0 +1,26 @@
+@import url(https://unpkg.com/@webpixels/css@1.1.5/dist/index.css);@import url("https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.4.0/font/bootstrap-icons.min.css");
+p{
+    color:   #4763a7;
+}
+
+.card-body {
+    position: relative;
+  }
+  
+  .topright {
+    position: absolute;
+    top: 8px;
+    right: 0px;
+    font-size: 18px;
+    color:#5C60F5;
+  }
+
+  svg:hover{
+    color: red;
+
+}
+#pageTitle::after{
+  content:"";
+  height:50px;
+  display: block;
+}

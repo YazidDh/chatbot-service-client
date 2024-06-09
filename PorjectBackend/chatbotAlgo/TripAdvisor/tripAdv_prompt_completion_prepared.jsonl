@@ -1,0 +1,1463 @@
+{"prompt":"customer: Hello. ->","completion":" Hello. How may I help you?\n"}
+{"prompt":"customer: Can you help me to change my recent reservation because my trip dates are got postponed? ->","completion":" I will help you with that please share your name to proceed further?\n"}
+{"prompt":"customer: Edward hall here. ->","completion":" Please wait for a while.\n"}
+{"prompt":"customer: Sure, take your own time. ->","completion":" There is no active reservation found under your name to amend it.\n"}
+{"prompt":"customer: That's ok, thank you for checking. ->","completion":" Thank you for choosing us.\n"}
+{"prompt":"customer: HI. ->","completion":" Hello. How may I be of your address?\n"}
+{"prompt":"customer: I want to book a flight ticket to Las Vegas with price under 1000. Can you please help me with it? ->","completion":" Sure, can I know your connection limit?\n"}
+{"prompt":"customer: I need a single connection. ->","completion":" Please let me know your boarding and landing points.\n"}
+{"prompt":"customer: Airport codes are HOU-LAS. ->","completion":" Kindly share your planned travelling dates to proceed further.\n"}
+{"prompt":"customer: Travel dates are 04\/03 and 04\/05. ->","completion":" Please wait a while.\n"}
+{"prompt":"customer: Ok. ->","completion":" We found a Frontier airline matching your essential details with one connection and the flight number-1006.\n"}
+{"prompt":"customer: Please proceed booking with the name Stephen Evans. ->","completion":" Your booking has been processed successfully.\n"}
+{"prompt":"customer: Thanks for the help. ->","completion":" You're welcome. Happy journey.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, do you need any help from us?\n"}
+{"prompt":"customer: Can you please help me in reserving my flight from ORD to reach ATL? ->","completion":" Sure, could you please share your departure and arrival day?\n"}
+{"prompt":"customer: Thank you, my travelling dates are Apr 3rd and Apr 5th. ->","completion":" Ok, could I have your name please?\n"}
+{"prompt":"customer: I am Gary Taylor. ->","completion":" Ok, do you need direct or connecting flight?\n"}
+{"prompt":"customer: I prefer a single connecting flight. ->","completion":" Ok, do you have any other specifications?\n"}
+{"prompt":"customer: I don't have any other specifications. ->","completion":" The economy class with flight number 1014 of Frontier airline is available having fare as 200 and connection as 1, is it ok for you?\n"}
+{"prompt":"customer: Yes, please proceed by booking. ->","completion":" Ok, your reservation is confirmed. The departure time is 6:00 hours and the arrival time is 10:00 hours.\n"}
+{"prompt":"customer: Thank you for the help. ->","completion":" Thank you for reaching our service.\n"}
+{"prompt":"customer: Hi. Donna Evans here. ->","completion":" Hello, how can I help you today?\n"}
+{"prompt":"customer: I would like to prefer a flight with lay-by option for my business trip to Oakland. Can you book a flight ticket? ->","completion":" Sure, let me know your travel dates please?\n"}
+{"prompt":"customer: The trip dates are from 01 Feb to 03 Feb. ->","completion":" Can I know your airport codes?\n"}
+{"prompt":"customer: The airport codes are from PHL to OAK. ->","completion":" Any preferences you have?\n"}
+{"prompt":"customer: No, that is it. ->","completion":" Spirit Airlines has a connecting flight with number 1018 for fare 200, shall I proceed?\n"}
+{"prompt":"customer: I am fine with the airlines. You can book the flight ticket. ->","completion":" Your ticket is reserved in economy class.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Thank you for opting us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello. How can I help you?\n"}
+{"prompt":"customer: I am Gregory Allen. I want to attend a live music concert in EWr, can you please find a flight from ORD? ->","completion":" Sure, I will help you to book a flight. Can you please share me your travelling dates?\n"}
+{"prompt":"customer: I want to start my journey on 10\/10 and my return will be on 10\/12. ->","completion":" Please hold on for a moment.\n"}
+{"prompt":"customer: Ok, take your time. ->","completion":" Here, I found a flight for you with single connection. Shall I proceed for booking?\n"}
+{"prompt":"customer: Please proceed. ->","completion":" Your ticket is booked with flight number 1000 and airline is Southwest.\n"}
+{"prompt":"customer: Hello, I am Richard Perez. ->","completion":" Hello, how may I be your helping hand?\n"}
+{"prompt":"customer: I have an meeting at NV - LAS, with my company CEO. As per my company rules I need to travel only in a connecting flight. ->","completion":" Sure, do you have any fare limit?\n"}
+{"prompt":"customer: My fare is 1000. ->","completion":" Please specify your travelling dates?\n"}
+{"prompt":"customer: My travelling dates are from 05\/15 to 05\/17. ->","completion":" Can you let me know your source code?\n"}
+{"prompt":"customer: My source code is SFO. ->","completion":" Please hold on.\n"}
+{"prompt":"customer: OK. ->","completion":" We found a direct flight in AA airline with flight number 1010. Shall I proceed with booking?\n"}
+{"prompt":"customer: You can proceed with booking. ->","completion":" Your flight ticket has been reserved.\n"}
+{"prompt":"customer: Thank you for the help. ->","completion":" Thank you for approaching us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how may I help you?\n"}
+{"prompt":"customer: Can you please help me in booking a flight ticket from Denver, DEN to Phoenix, PHX? ->","completion":" Sure, help me with the trip dates?\n"}
+{"prompt":"customer: My journey dates are from Aug 15 to Aug 17. ->","completion":" Do you have any specifications to be met?\n"}
+{"prompt":"customer: No. ->","completion":" May I know your name for the documentation purpose?\n"}
+{"prompt":"customer: My name is Kevin Harris. ->","completion":" We found a flight in an airline Hawaiian with 1026 number having a single connection in an economy class. Shall I proceed to book?\n"}
+{"prompt":"customer: Sure, you can proceed for booking. ->","completion":" Your flight ticket has been confirmed.\n"}
+{"prompt":"customer: Thanks for your help. ->","completion":" Thank you for opting us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how may I guide you?\n"}
+{"prompt":"customer: I am Emily Green. I would like to book a ticket from MSP to BOS. ->","completion":" Sure, can I know your preferable dates?\n"}
+{"prompt":"customer: I am starting on 06\/18 and return back on 06\/20. ->","completion":" I found a flight 1018 of AA airlines matches with your preferences, can I proceed?\n"}
+{"prompt":"customer: Yes, pleas eproceed. ->","completion":" Your ticket is booked.\n"}
+{"prompt":"customer: Thank you for the help. ->","completion":" Thank you, have a good day.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello. How may I guide you today?\n"}
+{"prompt":"customer: I want to cancel my reservation which is done recently due to some problems, can you please help me? ->","completion":" Sure, I will help you with that.\n"}
+{"prompt":"customer: Thank you. ->","completion":" May I know your name please?\n"}
+{"prompt":"customer: Sure, my name is Ronald Davis. ->","completion":" Please wait for a minute.\n"}
+{"prompt":"customer: Sure. ->","completion":" I am sorry to say that there is no reservation found under your name.\n"}
+{"prompt":"customer: Ok, no problem. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello. How may I help you out?\n"}
+{"prompt":"customer: I need to book a flight ticket from OAK to ORD, can you help me in booking a flight ticket? ->","completion":" Sure, I will help you in booking the ticket. May I know your travelling dates please?\n"}
+{"prompt":"customer: Sure, my journey dates are Jun 17 and Jun 19. ->","completion":" Can I know your name please?\n"}
+{"prompt":"customer: Sure, Rebecca Moore here. ->","completion":" Do you need any specifications?\n"}
+{"prompt":"customer: No. ->","completion":" There is a flight with connection 1 and price 100, can I proceed?\n"}
+{"prompt":"customer: Yes, you can. ->","completion":" Ok, your ticket has been booked with flight number 1024.\n"}
+{"prompt":"customer: Thank you for your assistance. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, How can I aid you?\n"}
+{"prompt":"customer: I am Amy Mitchell want to travel to MA- BOS to enjoy beach holidays with my cousins. ->","completion":" Ok.\n"}
+{"prompt":"customer:  Can you book a ticket from TX-IAH? ->","completion":" Sure, I am here to help you. May I know your travelling dates?\n"}
+{"prompt":"customer: My travelling dates are 01\/24 and 01\/26. ->","completion":" Please wait.\n"}
+{"prompt":"customer: Ok. ->","completion":" Thanks for waiting. You have a single connecting flight in JetBlue airline and flight number 1017 having price 100. Shall I proceed?\n"}
+{"prompt":"customer: Ok, you can proceed. ->","completion":" Your ticket has been booked.\n"}
+{"prompt":"customer:  Thank you for booking. ->","completion":" Thank you.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how can I help you today?\n"}
+{"prompt":"customer: I would like to cancel my recent reservation, can you help me in that? ->","completion":" Sure, can I have your name please?\n"}
+{"prompt":"customer: Sure, the ticket has been reserved on the name Kimberly Johnson. ->","completion":" Ok, please hold on a moment.\n"}
+{"prompt":"customer: Sure, I will wait for your response. ->","completion":" Thanks for waiting, there is no active reservation on your given name.\n"}
+{"prompt":"customer: That's ok, no problem. Thank you for the information. ->","completion":" Thank you for connecting with us.\n"}
+{"prompt":"customer: Can you aid me in booking a flight ticket from LGA to CLT? ->","completion":" Sure, may I know your planned trip dates?\n"}
+{"prompt":"customer: Sure, I would like to go on Oct 20th and return back on Oct 22nd. ->","completion":" Do you have any connection limit?\n"}
+{"prompt":"customer: Ensure it is a single connecting flight. ->","completion":" Is there any class preference?\n"}
+{"prompt":"customer: Ensure it is in the business class. ->","completion":" May I know your arrival and depart timings?\n"}
+{"prompt":"customer: No, I don't have any specific timings. ->","completion":" Do you have any other specifications?\n"}
+{"prompt":"customer: No, I don't have any other specifications. ->","completion":" Please forward your name.\n"}
+{"prompt":"customer: Myself Ronald Brown. ->","completion":" Sorry, there are no flights found on your specified routes.\n"}
+{"prompt":"customer: That's ok, thank you for checking. ->","completion":" Thank you for availing us.\n"}
+{"prompt":"customer: Please help me to cancel my recent reservation. ->","completion":" Sure, may I know your name please?\n"}
+{"prompt":"customer: Patrick Miller. ->","completion":" Ok, please wait.\n"}
+{"prompt":"customer: Ok. ->","completion":" Sorry to inform you that there is no active reservation found with your name in our records.\n"}
+{"prompt":"customer: Thank you for your information. ->","completion":" Most welcome.\n"}
+{"prompt":"customer: I need you to book a flight ticket from PHL to BOS. Please help me. ->","completion":" Can I know your travelling dates?\n"}
+{"prompt":"customer: June 03 and 05 are my planned travelling dates. ->","completion":" Do you have any preference?\n"}
+{"prompt":"customer: I wish to depart at afternoon in a direct flight. ->","completion":" Let me know your name.\n"}
+{"prompt":"customer: My name is Ryan Turner. ->","completion":" Found ticket with Southwest airlines for price 200 having flight number 1007.\n"}
+{"prompt":"customer: Thank you. Please book the ticket in that flight. ->","completion":" Ticket is booked.\n"}
+{"prompt":"customer: Thank you for the help. ->","completion":" Thank you.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how may I aid you?\n"}
+{"prompt":"customer: Myself Daniel Brown. I would like to attend seminar, so can you help me booking flight from MSP to SFO? ->","completion":" can I know your travel dates?\n"}
+{"prompt":"customer: My travel starts from 05\/05 to 05\/07. Provide flight with connection 1. ->","completion":" Basing on your details, I got a flight with flight number 1005 with price 100 and connection limit 1. Can I proceed?\n"}
+{"prompt":"customer: Ok, proceed to booking. ->","completion":" Your booking is done.\n"}
+{"prompt":"customer: Thank you for your services. ->","completion":" Most welcome.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello.\n"}
+{"prompt":"customer: I am James Wilson. ->","completion":" How may I help you?\n"}
+{"prompt":"customer: Ia m planning to travel from SFO to PHL, can you help me in booking? ->","completion":" May I know your travel dates?\n"}
+{"prompt":"customer: my travelling dates are 06\/20 to 06\/22. ->","completion":" Sorry, there is no flight found basis on your details.\n"}
+{"prompt":"customer: Ok, fine thank  you for checking. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello. What can I do for you now?\n"}
+{"prompt":"customer: Due to the sudden demise of my Granny, I am unable to catch a flight. ->","completion":" Ok.\n"}
+{"prompt":"customer: So I had a request to you to cancel my existing reservation? ->","completion":" Sure, I will cancel your reservation. For this I want to know your name.\n"}
+{"prompt":"customer: Sure, my name is Ronald Rodriguez. ->","completion":" Give a minute, I will get back to you.\n"}
+{"prompt":"customer: Sure. ->","completion":" Thanks for waiting. You have no reservation found with  your name.\n"}
+{"prompt":"customer: Ok, no problem. ->","completion":" Thank you for approaching us.\n"}
+{"prompt":"customer: Thanks for your valuable information. ->","completion":" Have a pleasant day.\n"}
+{"prompt":"customer: Please help me in changing my existing reservation, as my trip got postponed. ->","completion":" Sure, could I have your name please?\n"}
+{"prompt":"customer: My name is Linda Collins. ->","completion":" Ok, please allow me a moment.\n"}
+{"prompt":"customer: Ok. ->","completion":" Sorry, there is no reservation with your name in our portal to make changes further.\n"}
+{"prompt":"customer: That's ok, thank you for the response. ->","completion":" You are welcome, have a great day.\n"}
+{"prompt":"customer: Hello. Donald Lopez here. ->","completion":" Hello, how can I be in your service?\n"}
+{"prompt":"customer: I wan to attend a Seminar in Washington. Can you please help me for booking the flight ticket? ->","completion":" Ok, I will be glad to assist you with that. May I know the airport codes to check?\n"}
+{"prompt":"customer: My airport codes are from LGA to DCA. ->","completion":" Ok, please can you let me know your travel dates too?\n"}
+{"prompt":"customer: My travelling dates are from 09\/15 to 09\/17. ->","completion":" Ok, please wait a moment.\n"}
+{"prompt":"customer: Make sure my connections limit is 1. ->","completion":" Ok, I will check.\n"}
+{"prompt":"customer: Ok. ->","completion":" Thank you for waiting, there is a flight with airfare 100 and the airlines is JetBlue. Can I book it?\n"}
+{"prompt":"customer: Please proceed for booking the flight ticket. ->","completion":" Ok, the flight is been booked with 1 connecting flight limit as you needed.\n"}
+{"prompt":"customer: Thanks for helping me. ->","completion":" Thank you for choosing our agency.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello, how can I help you today?\n"}
+{"prompt":"customer: I am looking for a flight from SFO to CLT, can you help me out? ->","completion":" Sure, can you share me your travel dates?\n"}
+{"prompt":"customer: My trip dates are from Aug 9th till Aug 11th. ->","completion":" Do you have any connection limit?\n"}
+{"prompt":"customer: I am looking for a connecting flight. ->","completion":" Is there any other specifications?\n"}
+{"prompt":"customer: No, thanks. ->","completion":" I found a flight with the price of 100 having one connection and economy class. Can I proceed to booking?\n"}
+{"prompt":"customer: Please proceed with it. ->","completion":" Your ticket has been reserved with the flight- 1009.\n"}
+{"prompt":"customer: Thank you for your help. ->","completion":" Thank you for reaching us. Can I know your good name?\n"}
+{"prompt":"customer: Patricia Scott. ->","completion":" Most Welcome.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello. How may I help you today?\n"}
+{"prompt":"customer: I'm Jacob Anderson here, and my planning is to travel from DFW to IAH to meet my cousin at Houston. ->","completion":" That's good, let me know your journey dates?\n"}
+{"prompt":"customer: Sure, my dates of journey is from 05\/20 to 05\/22. My connections limit is 0. ->","completion":" Thank you for your information. Let me check. Thank you for waiting.\n"}
+{"prompt":"customer: Do you have any ticket for me? ->","completion":" Sorry, there is flight with 0 connection limit. Thank for reaching us, have a nice day.\n"}
+{"prompt":"customer: Is there any flight is available? ->","completion":" Sorry, there is no flight for your information.\n"}
+{"prompt":"customer: Thank you, for your information. ->","completion":" Welcome.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello. How can I help you at this moment?\n"}
+{"prompt":"customer: I am Alexander Mitchell here. I need to cancel my existing reservation, which is done recently. Can you please hep me out? ->","completion":" Sure. I will help you with that. Please wait a moment.\n"}
+{"prompt":"customer: Thank you for considering my request. ->","completion":" There is no previous reservation available under your name.\n"}
+{"prompt":"customer: Not a big problem, anyway thank you for the information. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how may I assist you?\n"}
+{"prompt":"customer: Actually, my friend book a flight ticket in economy class instead of business class. Can you please help me in changing of my existing reservation? ->","completion":" Sure, may I know your good name please?\n"}
+{"prompt":"customer: Myself Catherine Wilson. ->","completion":" Please wait for a moment.\n"}
+{"prompt":"customer: Ok. ->","completion":" Sorry, there is no reservation found on your name in our database to change.\n"}
+{"prompt":"customer: Ok, no problem. Thank you for your information. ->","completion":" You are most welcome.\n"}
+{"prompt":"customer: Hello, I am Linda Robinson. ->","completion":" Hello, how can I help you today?\n"}
+{"prompt":"customer: I would like to travel to SFO from OAK to celebrate flowers festivals. can you please help me to book a ticket? ->","completion":" Sure, help me with your travelling dates?\n"}
+{"prompt":"customer: My travelling dates will be on 01\/08 to 01\/10. ->","completion":" Ok, any specific requirements?\n"}
+{"prompt":"customer: I need a connecting flight. ->","completion":" Ok, flight- 1005, airline- Southwest, price- 200 with connection-1 matches your requested details.\n"}
+{"prompt":"customer: You can proceed to booking. ->","completion":" Ok, your ticket has been processed.\n"}
+{"prompt":"customer: Hi, I am Joshua Phillips. ->","completion":" Hello, how can I assist you?\n"}
+{"prompt":"customer: I have heard that Orlando is the best place for site seeing. So, can you book a flight ticket from Philadelphia, PA - PHL? ->","completion":" Sure, we are here to help you. Can I have the exact airport code of Orlando?\n"}
+{"prompt":"customer: Sure, my destination code is FL - MCO. ->","completion":" How much can you afford for this trip?\n"}
+{"prompt":"customer: I can afford up to 500. ->","completion":" When are you planning to go Orlando?\n"}
+{"prompt":"customer: I want to travel on 07\/19. ->","completion":" Ok, do you need a stopover in between your route?\n"}
+{"prompt":"customer: Yes, I need a stopover. ->","completion":" Please help me with your return date.\n"}
+{"prompt":"customer: My arrival date is on 07\/21. ->","completion":" Joshua, there is a flight from Frontier airline with fare 100 only. Shall I proceed with the booking?\n"}
+{"prompt":"customer: You may proceed if it is a connecting flight. ->","completion":" Yes, it is a connecting flight.\n"}
+{"prompt":"customer: Thank you for your support, regarding flight booking process. ->","completion":" Your reservation is confirmed with flight number 1005 on your name Joshua Phillips. Thank you for consulting us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how may I assist you today?\n"}
+{"prompt":"customer: Could you please help me to book a business class ticket from Los Angeles to attend a business meeting in New York? ->","completion":" Sure, may I know your travel dates?\n"}
+{"prompt":"customer: I need to depart on Apr 2nd and my return date will be on Apr 4th. ->","completion":" Where would you like land in New York?\n"}
+{"prompt":"customer: My boarding point is LAX and my destination point is JFK. ->","completion":" Please share me your name.\n"}
+{"prompt":"customer: I am Jessica Crown. ->","completion":" Do you have any specifications?\n"}
+{"prompt":"customer: I need a break in between my journey. ->","completion":" We found a economy class flight on your details with Southwest Airline, flight number: 1002. Shall I book this ticket?\n"}
+{"prompt":"customer: That's fine, you can book the ticket. ->","completion":" Your ticket has been reserved.\n"}
+{"prompt":"customer: Thank you for your assistance in booking. ->","completion":" Thank you so much for choosing us.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello. How can I assist you today?\n"}
+{"prompt":"customer: I am Patricia Smith, can you help me to book a flight with 1 connection? ->","completion":" Sure, will you mention your travelling dates please?\n"}
+{"prompt":"customer: My travelling dates are 01\/08 and 01\/10. ->","completion":" Please provide your airport codes that you want to travel.\n"}
+{"prompt":"customer: I would like to fly from ORD to DCA. ->","completion":" Please give me a moment.\n"}
+{"prompt":"customer: Ok. ->","completion":" Thanks for waiting, there is a flight with price 100 and the connections 1 is available. Shall I confirm your ticket?\n"}
+{"prompt":"customer: Proceed with booking. ->","completion":" Your ticket is booked. The flight number is 1025 and the airline is Delta.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Welcome, have a great day.\n"}
+{"prompt":"customer: Hello, I am Anthony Turner. ->","completion":" Hello, how can I help you today?\n"}
+{"prompt":"customer: I would like to start my journey from Chicago, IL-ORD to attend my family meeting at Dallas, TX-DFW, can you help me in booking? ->","completion":" Sure, I am here to help you.\n"}
+{"prompt":"customer: Thank you. ->","completion":" On which dates would you like me to book a flight ticket for you?\n"}
+{"prompt":"customer: I would like to start on 02\/27 and my return date will be on 02\/29. ->","completion":" Do you need a stopover in between your journey?\n"}
+{"prompt":"customer: I need a stopover in between my journey. ->","completion":" OK, please hold on.\n"}
+{"prompt":"customer: Ok. ->","completion":" Thanks for waiting, we found 1007 flight in UA airline with single connection and fare of 100.\n"}
+{"prompt":"customer: Ok, please book my ticket. ->","completion":" Your ticket has been booked with your name.\n"}
+{"prompt":"customer: Thank you for helping in booking. ->","completion":" Thank you for reaching us, have a safe journey.\n"}
+{"prompt":"customer: Hi. I am Laura Walker. ->","completion":" Hello, how can I aid you today?\n"}
+{"prompt":"customer: As I keep travelling due to the nature of my work, this time I have to travel to MCO. Please help me to book a flight from PHL. ->","completion":" Sure, when are you planning to start and return on?\n"}
+{"prompt":"customer: I am planning to start my journey on Nov 10th and return on Nov 12th. ->","completion":" Do you need a connecting flight?\n"}
+{"prompt":"customer: Yes, I need a connecting flight. ->","completion":" What are your departure and return timings?\n"}
+{"prompt":"customer: The return time should be afternoon. ->","completion":" In which class do you want to fly?\n"}
+{"prompt":"customer: I am comfortable with any class. ->","completion":" Thank you for your details, we found a connecting flight 1021 in economy class with American Airline. Shall I proceed with afternoon flight while returning?\n"}
+{"prompt":"customer: Please proceed. ->","completion":" Your ticket has been confirmed.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Thank you.\n"}
+{"prompt":"customer: Due to sudden change of my business meeting because of some technical problem, I need to change my reservation so can you help me with that? ->","completion":" Let me know your name to check your reservation?\n"}
+{"prompt":"customer: I am Alexander Parker. ->","completion":" I have checked in reservation list to change your ticket, but could not find any reservation with your name.\n"}
+{"prompt":"customer: No problem, thank you for the information. ->","completion":" Thank you for choosing us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how may I help you today?\n"}
+{"prompt":"customer: Please help me in booking a flight ticket from CLT to DEN. ->","completion":" Sure, can you please help me with your dates of journey?\n"}
+{"prompt":"customer: Oct, 9 and Oct, 11 are my journey dates. ->","completion":" May I know your name please?\n"}
+{"prompt":"customer: James Jackson here. ->","completion":" Are you looking for any other help from my side please?\n"}
+{"prompt":"customer: I am looking for connecting flight. ->","completion":" Ok, wait for a mean while please.\n"}
+{"prompt":"customer: Sure. ->","completion":" I found a connecting flight of fare 100 with the Hawaiian airline, are you ok with this ticket booking?\n"}
+{"prompt":"customer: Yes, please book. ->","completion":" Ok, I have reserved your ticket with the flight number 1000.\n"}
+{"prompt":"customer: Thank you. ->","completion":" You are welcome, have a safe flight.\n"}
+{"prompt":"customer: Hi,. ->","completion":" Hello, How can I support you?\n"}
+{"prompt":"customer: I am Raymond Allen, can you be my helping hand in booking a ticket. ->","completion":" Sure, Could you please share your travelling details?\n"}
+{"prompt":"customer: I want to travel to Fort Worth, TX-DFW from Philadelphia, PA- PHL. My journey dates are mar\/31 and apr\/2. I need one connection within the price limit of 1000. ->","completion":" Thank you for your information. Please wait for a while I will check and get back to you.\n"}
+{"prompt":"customer: OK. ->","completion":" Thank you for waiting. We are happy to inform you that there is a flight based on your details. The flight details are as follows airline : Southwest, Flight number : 1013, Price : 600 with one connection.\n"}
+{"prompt":"customer: OK, proceed with the booking. ->","completion":" Ok, The ticket has been booked.\n"}
+{"prompt":"customer: Thank you for the service. ->","completion":" Thank you for contacting us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello. How can I assist you today?\n"}
+{"prompt":"customer: I am Sarah Robinson. ->","completion":" Nice to meet you.\n"}
+{"prompt":"customer: I want to go New York next for my film shooting purpose, can you please book a flight ticket from EWR to JFK? ->","completion":" Sure, will you mention your travelling dates please?\n"}
+{"prompt":"customer: My departure date is 06\/17 and please book my return ticket also on 06\/19. ->","completion":" Please give me a moment.\n"}
+{"prompt":"customer: I want a direct flight to New York. ->","completion":" Thank you for waiting. There is no flights found under your preferable journey details.\n"}
+{"prompt":"customer: Oh! It's ok no problem, I will go with another airline. Thank you for your information. ->","completion":" Welcome, have a great day.\n"}
+{"prompt":"customer: Hello, I am Pamela Rodriguez. ->","completion":" Hello, what can I do for you today?\n"}
+{"prompt":"customer: I want to reach Detroit, MI-DTW to meet my old friend to start a new business, can you help me to book a flight ticket from Dallas, TX-DFW? ->","completion":" Sure, do you need a connection in between your journey?\n"}
+{"prompt":"customer: 02\/04 and 02\/04 are my planned travelling dates. I prefer one connection. ->","completion":" Ok, please wait a minute.\n"}
+{"prompt":"customer: Ok. ->","completion":" We found a AA airline with flight number 1003 and price is 100 available according to your requirements.\n"}
+{"prompt":"customer: That's good you can book the ticket. ->","completion":" Your reservation is done.\n"}
+{"prompt":"customer: Thanks for your assistance. ->","completion":" Thank you for picking us.\n"}
+{"prompt":"customer: Hello, I am Pamela Walker. ->","completion":" Hello, how may I serve you now?\n"}
+{"prompt":"customer: I want to visit my brother home town in San Francisco, can you help me with reservation? ->","completion":" Sure, I can make your reservation right now. Can you please provide me your airport codes?\n"}
+{"prompt":"customer: My origin is LAS and destination is SFO. ->","completion":" Do you need any halt in between your journey?\n"}
+{"prompt":"customer: Yes, I need flight with single halt. ->","completion":" May I know your travelling dates?\n"}
+{"prompt":"customer: My depart is on 04\/15 and return on 04\/17. ->","completion":" Is there any price limit for you?\n"}
+{"prompt":"customer: My price limit is 200. ->","completion":" Ok, please wait a moment.\n"}
+{"prompt":"customer: OK. ->","completion":" Unfortunately, there is no flight found on your journey details.\n"}
+{"prompt":"customer: No problem, I will try with another airline. Thank you for the information. ->","completion":" Thanks for approaching us and have a great day.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello,.\n"}
+{"prompt":"customer: I am Carolyn Lopez. ->","completion":" How can I assist you?\n"}
+{"prompt":"customer: I want to attend a pagan festival at Philadelphia. Can you help me in my booking? ->","completion":" Sure, may I know your trip dates please?\n"}
+{"prompt":"customer: My journey dates are from 01\/03 to 01\/05. ->","completion":" Let me know your airport codes please?\n"}
+{"prompt":"customer: My airport codes are from EWR to PHL. ->","completion":" Do you need any other requirements to be met?\n"}
+{"prompt":"customer: I can pay up to 500. ->","completion":" Thanks for your details, there is a connecting flight with 1015 flight number of fare 100 from an airline UA.\n"}
+{"prompt":"customer: Proceed with my booking. ->","completion":" Your flight ticket has been booked.\n"}
+{"prompt":"customer: Thank you for your help. ->","completion":" Thank you.\n"}
+{"prompt":"customer: I would like to meet my childhood friend after a long time in Los Angeles, so I would like to book a flight ticket. Can you help me? ->","completion":" Sure, we are here to help you. Can you please share your travel dates?\n"}
+{"prompt":"customer: Ok, my trip dates are from Mar 24 to 26. ->","completion":" May I know your airport codes?\n"}
+{"prompt":"customer: Sure, my locations are from PHX to LAX. ->","completion":" Do you have any connection limit?\n"}
+{"prompt":"customer: I need a connecting flight with business class. ->","completion":" Is there any other specification?\n"}
+{"prompt":"customer: I would like to depart in the morning and returning in the evening. ->","completion":" Ok, please share your name.\n"}
+{"prompt":"customer: Sure, I am Sharon Brown. ->","completion":" Please wait a moment.\n"}
+{"prompt":"customer: Sure. ->","completion":" Sorry to say, no flights found with your requirement.\n"}
+{"prompt":"customer: It's ok, thank you. ->","completion":" Thanks for reaching us.\n"}
+{"prompt":"customer: Hi, Paul Garcia here. ->","completion":" Hello, how can I help you?\n"}
+{"prompt":"customer: Can you please reserve me a flight ticket which is having it's return time in the evening? ->","completion":" Sure, we are happy to help you. When are you planning to make your journey?\n"}
+{"prompt":"customer: Thank you, my trip dates are 08\/02 - 08\/04. ->","completion":" Please help me with your respective airport codes.\n"}
+{"prompt":"customer: My airport codes are SFO - DEN. ->","completion":" Do you have any lay by in between journey?\n"}
+{"prompt":"customer: I need a direct flight. ->","completion":" Is there specific depart and arrival timings for this trip?\n"}
+{"prompt":"customer: Already mentioned above. ->","completion":" Do you have any other specifications?\n"}
+{"prompt":"customer: No, thank you for asking. ->","completion":" Thanks for providing details, no flights are available on your journey routs.\n"}
+{"prompt":"customer: No issues, thank you. ->","completion":" Thank you for choosing us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, welcome to flight ticket booking agency.\n"}
+{"prompt":"customer: Thank you. ->","completion":" How may I help you?\n"}
+{"prompt":"customer: Can you help me in booking a flight ticket from JFK to DCA? ->","completion":" Sure, I can reserve a flight ticket for you. Can I know your respective name please?\n"}
+{"prompt":"customer: I am George Carter. ->","completion":" Ok, when do you want to depart from JFK and return back from DCA?\n"}
+{"prompt":"customer: I want to travel on 10\/23, and return on 10\/25. ->","completion":" Ok, please let me know the connection limit preference.\n"}
+{"prompt":"customer: I need a connecting flight. ->","completion":" There is an economy class flight in this route. Is that ok for you?\n"}
+{"prompt":"customer: Yes. ->","completion":" If you have any other requirements that should met, please tell me?\n"}
+{"prompt":"customer: No. ->","completion":" Ok, the flight is available in the JetBlue airlines which is departing and returning in the afternoon time and the flight ticket cost is 100. Shall I reserve the ticket?\n"}
+{"prompt":"customer: Proceed with the booking. ->","completion":" I have confirmed your flight ticket with the service number 1008. Have  a nice and happy journey.\n"}
+{"prompt":"customer: Thanks for the assistance. ->","completion":" That's my pleasure to assist you. Thank you for contacting us.\n"}
+{"prompt":"customer: Hello, Betty Lewis is my name. ->","completion":" Hello, how may I assist you today?\n"}
+{"prompt":"customer: Can you please book a connected flight from Minneapolis & St. Paul, MN - MSP? ->","completion":" Sure, we will help you. Ok, please let me know your journey dates.\n"}
+{"prompt":"customer: My journey dates are 02\/27 and 02\/29. ->","completion":" May I know your destination point?\n"}
+{"prompt":"customer: I want to land at New York, NY - LGA. ->","completion":" Ok, please wait for a while.\n"}
+{"prompt":"customer: Sure. ->","completion":" Thanks for your time, we found a direct flight based on your given data.\n"}
+{"prompt":"customer: Do not proceed for booking. ->","completion":" Ok.\n"}
+{"prompt":"customer: Thanks for your help. ->","completion":" Thank you for choosing us.\n"}
+{"prompt":"customer: I am George Moore. I had planned to go on a trip, but it was postponed. Can you change my recent reservation? ->","completion":" Sure, I am happy to help you. Please wait, let me check your reservation status in our database.\n"}
+{"prompt":"customer: Ok, take your time. ->","completion":" Sorry, there is no reservation under your name in our database.\n"}
+{"prompt":"customer: That's ok. Anyways, thank you for your help. ->","completion":" You are welcome and have a nice day.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, what can I do for you at this time?\n"}
+{"prompt":"customer:  I am Kimberly Hill. I want to book a ticket to NY-LGA from TX-AUS. ->","completion":" Sure, can I know your dates?\n"}
+{"prompt":"customer: My travelling dates are 09\/23 and 09\/25. ->","completion":" Just hold on for a moment.\n"}
+{"prompt":"customer: Ok. ->","completion":" Sorry for the inconvenience, there is no flight available on your dates.\n"}
+{"prompt":"customer: Ok, thank you for you response. ->","completion":" Thank you for opting us.\n"}
+{"prompt":"customer: Hello. Myself Mary Mitchell. ->","completion":" Hello, how can I help you?\n"}
+{"prompt":"customer: I am looking for a flight from DTW to DFW, can you help me in booking? ->","completion":" Sure, please share me your travelling dates?\n"}
+{"prompt":"customer: My planned travel dates are Dec 26 and Dec 28. ->","completion":" Do you have any class preference?\n"}
+{"prompt":"customer: No, I am not looking for any class preferences. ->","completion":" Do you have any connection limit?\n"}
+{"prompt":"customer: Sure, I am looking for a connecting flight. ->","completion":" Is there any other specifications?\n"}
+{"prompt":"customer: Yes, I would like to start my journey for the morning flight. ->","completion":" We found 1016 American airline with single connection and price of 200, shall I proceed with booking?\n"}
+{"prompt":"customer: That's fine, please proceed in booking with this flight if the depart time is for morning session. ->","completion":" Your booking is done.\n"}
+{"prompt":"customer: Thank you for the service. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, what kind of service your looking for?\n"}
+{"prompt":"customer: I want to attend an interview in Houston, HOU. Can you please book a ticket from DEN? ->","completion":" Sure, please share me your trip dates.\n"}
+{"prompt":"customer: My travelling dates are Oct 7 and Oct 9. ->","completion":" For booking, we need your good name. Please mention it.\n"}
+{"prompt":"customer: Sure, I am Emma Scott. ->","completion":" May I know your class preferences?\n"}
+{"prompt":"customer: I am comfortable with any class. ->","completion":" Is there any time concern for you?\n"}
+{"prompt":"customer: My depart time is morning. ->","completion":" Do you need direct flight or connecting flight?\n"}
+{"prompt":"customer: I am comfortable with both flights. ->","completion":" We found a Delta airline and 1005 is flight number with a fare of 200. Shall I proceed?\n"}
+{"prompt":"customer: Yes, please proceed for booking. ->","completion":" Your ticket is confirmed with an economy class.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello.\n"}
+{"prompt":"customer: I am Angela Mitchell. ->","completion":" How may I serve you today?\n"}
+{"prompt":"customer: I want to cancel my recent reservation due to cancel of my event at Charlotte. Could you please help me? ->","completion":" Please wait for a moment, I will check your reservation and revert to you.\n"}
+{"prompt":"customer: Sure, I will wait for your response. ->","completion":" We are glad to inform you that there is a reservation found with your given name in our records. Shall I confirm your cancellation?\n"}
+{"prompt":"customer: Yes, please proceed. ->","completion":" Your ticket has been cancelled.\n"}
+{"prompt":"customer: Thank you for your service. ->","completion":" Thank you for connecting with us.\n"}
+{"prompt":"customer: I would like to visit New York to meet my family, please help me in booking a ticket from HOU to LGA. ->","completion":" Sure, we are here to help you.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Can you share me your travelling dates?\n"}
+{"prompt":"customer: My planned travel dates are on Oct 6 and Oct 8. ->","completion":" May I know your name?\n"}
+{"prompt":"customer: My name is Angela Wright. ->","completion":" Do you have any other specifications?\n"}
+{"prompt":"customer: I prefer a connecting flight. ->","completion":" Ok, wait for some time.\n"}
+{"prompt":"customer: Sure. ->","completion":" Thanks for waiting there are no flights found on your details.\n"}
+{"prompt":"customer: Ok, no issues. Thank you for your information. ->","completion":" Thanks for approaching us.\n"}
+{"prompt":"customer: Hello, I am Jerry Robinson. ->","completion":" Hello Jerry. How can I assist you?\n"}
+{"prompt":"customer: I would like to cancel my recent reservation due to postpone of my conference at Denver. Could you please help me with the cancellation? ->","completion":" Sure, please give me a minute.\n"}
+{"prompt":"customer: Sur. ->","completion":" Jerry, there is no reservation available on your name.\n"}
+{"prompt":"customer: That's fine, thank you for the information. ->","completion":" You are welcome.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello. How can I help you today?\n"}
+{"prompt":"customer: My holiday trip has been cancelled, could you please help me with cancelling my recent reservation? ->","completion":" Sure, I am glad to help you with that. May I know your name?\n"}
+{"prompt":"customer: My reservation was done under the name Andrew Robinson. ->","completion":" Sorry, no reservation found on your name to cancel your reservation.\n"}
+{"prompt":"customer: Ok, not an issue. Anyways, thank you for the information. ->","completion":" Thank you for reaching us, have a great day.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello, how can I assist you?\n"}
+{"prompt":"customer: I need to cancel my reservation for a client meeting but I have got a sudden call from my friend that one of my friend got met with an accident so I feel to cancel my reservation. Can you please help me out? ->","completion":" Sure, I am here to help you with that, can I know your good name to proceed further?\n"}
+{"prompt":"customer: Janet Perez here. ->","completion":" Sorry, we found no reservation on your given name.\n"}
+{"prompt":"customer: That's ok, thank you for your help. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: I am Mary Walker. I want to visit Titanic the aircraft exhibition at MCO, can you please book a ticket for me? ->","completion":" Sure, we are here to help you. May I know your planned dates of travelling?\n"}
+{"prompt":"customer: My trip dates are 10\/29 to 10\/31. ->","completion":" May I Know your boarding point?\n"}
+{"prompt":"customer: Source: PHX. ->","completion":" Thank you for the details. Please be on hold.\n"}
+{"prompt":"customer: Sure. ->","completion":" I found a flight with number 1024 and Delta airline. Shall I proceed?\n"}
+{"prompt":"customer: You can proceed. ->","completion":" Your flight ticket has been booked with single connection and fare of 200.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello. How can I help you today?\n"}
+{"prompt":"customer: I am Paul Wilson. I am planning to travel from IAD to MSP, can you please help in that? ->","completion":" Sure, can you please provide your travelling dates to proceed further?\n"}
+{"prompt":"customer: My date of travelling is on 06\/04 to 06\/06. ->","completion":" Wait a moment please.\n"}
+{"prompt":"customer: sure, but I want to travel in direct flight. ->","completion":" Paul Wilson, there are no direct flights available on this route.\n"}
+{"prompt":"customer: That's ok, thanks for helping me. ->","completion":" Thank you for contacting us.\n"}
+{"prompt":"customer: Hello, I am Mary Jones. ->","completion":" Hello, how can I assist you?\n"}
+{"prompt":"customer: I want to attend sports festival with festival in DCA, can you help me with reservation? ->","completion":" Sure, may I know your source code?\n"}
+{"prompt":"customer: My source is MSP. ->","completion":" Help me with the travelling dates?\n"}
+{"prompt":"customer: My depart is on 09\/26 and return on 09\/28. ->","completion":" Please be on hold.\n"}
+{"prompt":"customer: OK. ->","completion":" We have found a flight in an airline Delta with the flight number 1009.\n"}
+{"prompt":"customer: OK, proceed with booking. ->","completion":" Your flight ticket has been booked.\n"}
+{"prompt":"customer: Thank you for the help. ->","completion":" Thank you for choosing us.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello. How may I assist you?\n"}
+{"prompt":"customer: Owing to an emergency I had to request for this change reservation. ->","completion":" Ok, I will help you with that. Can I have your name , please?\n"}
+{"prompt":"customer: My name is Anna Young. ->","completion":" Hold on a moment.\n"}
+{"prompt":"customer: Sure. ->","completion":" I am sorry, there is no reservation found on your name to change.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Thank you for availing us.\n"}
+{"prompt":"customer: I am James Robinson. ->","completion":" How can I assist you?\n"}
+{"prompt":"customer: I am planning to attend a meeting. Can you please book a ticket from DCA to DCA? ->","completion":" Sure, help me with the travelling dates?\n"}
+{"prompt":"customer: My travelling dates are 06\/14 and return on 06\/16. ->","completion":" Give me a minute.\n"}
+{"prompt":"customer: Sure. ->","completion":" There is a flight with number 1020 in airline Frontier.\n"}
+{"prompt":"customer: Yes, you can book it. ->","completion":" Your ticket is confirmed, happy journey.\n"}
+{"prompt":"customer: Thank you for your help. ->","completion":" Thank you for opting us.\n"}
+{"prompt":"customer: Hi, I am Mark Jones. ->","completion":" Hello, how can I help you?\n"}
+{"prompt":"customer: Owing to an emergency, my boxing championship has been postponed. So I have a request to you to change my existing reservation? ->","completion":" Sure, wait for some time.\n"}
+{"prompt":"customer: Sure. ->","completion":" Thanks for waiting there is no reservations found on your name.\n"}
+{"prompt":"customer: Ok, no issues at all. Thanks for your assistance. ->","completion":" Thanks for choosing us.\n"}
+{"prompt":"customer: Hello. I am Carol Edwards. ->","completion":" Hello. How can I assist you at this moment?\n"}
+{"prompt":"customer: I need some immediate assistance in my flight ticket booking from DTW to AUS, can you help me in that booking process? ->","completion":" Sure Carol, I am ready to help you with that. Can I have your travel dates please?\n"}
+{"prompt":"customer: Thank you and my travel dates are 11\/30 and back on 12\/02. ->","completion":" Ok Carol, please wait a moment to check flight availability.\n"}
+{"prompt":"customer: Sure, I can wait for your response. ->","completion":" AA airlines running a flight in your route with connection 1 and the ticket fare is 100. Shall I proceed with booking?\n"}
+{"prompt":"customer: Yes, please go ahead and confirm my flight ticket booking. ->","completion":" Ok Carol Edwards, your ticket booking has done and the flight number is 1013.\n"}
+{"prompt":"customer: Thank you so much for your kind service in my ticket booking. ->","completion":" Thank you for choosing us, have a great journey.\n"}
+{"prompt":"customer: I am Matthew Parker. ->","completion":" Matthew nice to meet you.\n"}
+{"prompt":"customer: Due to some reasons, my trip has been postponed. Can you change my reservation. ->","completion":" Actually, there is no previous reservation found on your name.\n"}
+{"prompt":"customer: It's ok. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hello,. I am Richard Adams. ->","completion":" Hello, how can I render you today?\n"}
+{"prompt":"customer: I would like to attend for prayers in Old North Church at Boston, BOS. Can you help me in booking with a connecting flight? ->","completion":" Sure, I am here to assist you.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Can you please provide your take off airport code?\n"}
+{"prompt":"customer: I want to take off from Washington, DCA. ->","completion":" On which dates would you like me to book a flight ticket for you?\n"}
+{"prompt":"customer: I would like to travel on 03\/01 and intend to return on 03\/03. ->","completion":" Ok, please wait a moment, let me search a flight for you.\n"}
+{"prompt":"customer: Sure. ->","completion":" Thanks for your precious time. We found Delta airline fare of 100. Shall I proceed for booking with single stopover flight?\n"}
+{"prompt":"customer: Yes, proceed with the booking. ->","completion":" Your ticket has been confirmed with airline number 1000.\n"}
+{"prompt":"customer: Thank you for your service. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello. How can I aid you at this moment?\n"}
+{"prompt":"customer: Deborah Robinson here. I would like to visit Philadelphia for business meeting in the month of September, can you please help me out with booking of a flight ticket to go there? ->","completion":" Sure, I will assist you with that. Can you please mention your preferable airport code names for booking flight ticket?\n"}
+{"prompt":"customer: Sure, I will prefer EWR and PHL as my origin and destination airport codes for booking. ->","completion":" May I know your trip dates for further process?\n"}
+{"prompt":"customer: I am planning to leave on 09\/19 and please book my return ticket on 09\/21. ->","completion":" Thank you for providing your travel details. I will put the conversation on hold to check the best flights available in your route.\n"}
+{"prompt":"customer: Ok, take your time. ->","completion":" According to your information, I have found a flight with single stop over in your journey with a minimum fare of 200 is provided by Hawaiian airlines. Shall I proceed with this?\n"}
+{"prompt":"customer: That's fine for me, you can proceed with booking. ->","completion":" Your flight ticket is booked successfully, flight number is 1002.\n"}
+{"prompt":"customer: Thank you for your kind assistance in booking of my ticket, have a nice day. ->","completion":" Thank you for choosing us, have a nice day.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how can I support you today?\n"}
+{"prompt":"customer: I am Kimberly Green. I want to book a flight ticket from IAH to IAD. Can you find a flight ticket for me? ->","completion":" Sure, we are here to make a reservation for you. Please share your planned journey dates.\n"}
+{"prompt":"customer: Thank you, my itinerary dates are on 11\/13 and return on 11\/15. ->","completion":" Ok, Is there any halt?\n"}
+{"prompt":"customer: Yes, I need one connecting flight. ->","completion":" Ok, please wait.\n"}
+{"prompt":"customer: Ok, take your time. ->","completion":" Thanks for your time, there were no flights found based on your requested dates.\n"}
+{"prompt":"customer: It's ok, not a problem with that. Anyways thank you for your help. ->","completion":" Thank you for availing us.\n"}
+{"prompt":"customer: My name is Jacob Thomas, I want to book a flight from DTW to OAK to visit trade fair. Can you book a flight for me? ->","completion":" Sure, may I know your travelling dates?\n"}
+{"prompt":"customer: I will fly on Nov 12 and return on Nov 14. ->","completion":" Do you have any depart and return time?\n"}
+{"prompt":"customer: I will depart in afternoon. ->","completion":" Can I know your class?\n"}
+{"prompt":"customer: Sorry there is no any class preference. ->","completion":" There is a flight on United airline, flight number 1001 with the fare of 200 and depart is 17 PM. Can I proceed?\n"}
+{"prompt":"customer: Please proceed if it have a single connection. ->","completion":" Your ticket has been booked.\n"}
+{"prompt":"customer: Thank you for helping me. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Owing to emergency, my planned trip to New York to attend a workshop on SAP has been postponed. So I want you to change my existing reservation? ->","completion":" May I know your name?\n"}
+{"prompt":"customer: Sure, I had a reservation with name Stephanie Carter. ->","completion":" Please wait a moment.\n"}
+{"prompt":"customer: Sure. ->","completion":" Sorry, there is no reservation found on your name.\n"}
+{"prompt":"customer: Ok, no worries at all. ->","completion":" Thank you for choosing us.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello. How may I help you?\n"}
+{"prompt":"customer: I am Stephanie Turner. Can you help me searching flights with connection 1? ->","completion":" Yes, I can help you.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Could you tell me your dates of travel?\n"}
+{"prompt":"customer: My travelling dates are 04\/17 and 04\/19. ->","completion":" Ok, can I know your nearest airport codes?\n"}
+{"prompt":"customer: My airport codes are LAX to IAH. ->","completion":" Give me a second, I will get back to you.\n"}
+{"prompt":"customer: Sure. ->","completion":" I have found a flight ticket for you with a price of 100 and 1 connecting flight.\n"}
+{"prompt":"customer: That's perfect, proceed to booking. ->","completion":" Ok, your ticket is booked with JetBlue airlines.\n"}
+{"prompt":"customer: Thank you for confirming my flight ticket. ->","completion":" Thank you for consulting us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how can I aid you?\n"}
+{"prompt":"customer: I would like to meet my school friend at Boston, please help me in booking a ticket from PHX to BOS. ->","completion":" Sure, can you please let me know your trip dates?\n"}
+{"prompt":"customer: My planned trip dates are on Oct 19 and Oct 21. ->","completion":" Do you have any connection limit preference?\n"}
+{"prompt":"customer: I need a flight with single connection. ->","completion":" Do you have any other specifications?\n"}
+{"prompt":"customer: No, thank you for asking. ->","completion":" Could you help me with your name please?\n"}
+{"prompt":"customer: My name is Brian Lewis. ->","completion":" American Airlines is having a single stopover with 1001 flight number and airfare is 200. Shall I proceed with this flight?\n"}
+{"prompt":"customer: Ok, please proceed for booking. ->","completion":" For a economy class your ticket is booked.\n"}
+{"prompt":"customer: Thank you for your services. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Myself Eric Anderson. ->","completion":" In which way I can assist you today?\n"}
+{"prompt":"customer: Can you please book a flight ticket from ORD to SFO? ->","completion":" Sure, I can help you in booking flight ticket.\n"}
+{"prompt":"customer: Thank you. ->","completion":" May I know your preferable travel dates for booking flight ticket?\n"}
+{"prompt":"customer: Sure, I need to travel on dates of 06\/03 and 06\/05. ->","completion":" Ok, please wait a moment, I will check flight availability.\n"}
+{"prompt":"customer: Sure, take your time. ->","completion":" There is a flight available in this route, airline is Spirit and flight number is 1001. Are you ok with this flight?\n"}
+{"prompt":"customer: That's fine, please proceed with booking. ->","completion":" Your flight ticket is booked successfully.\n"}
+{"prompt":"customer: Thank you for your help. ->","completion":" Thank you for contacting us, have a nice day.\n"}
+{"prompt":"customer: I am Jason Parker. ->","completion":" Ok.\n"}
+{"prompt":"customer: I need to attend farewell party in my college, could you please help me to book a flight ticket? ->","completion":" Sure, will you provide your source and destination airport codes.\n"}
+{"prompt":"customer: My origin and destination airport codes are AUS and SEA. ->","completion":" Will you provide your travelling dates?\n"}
+{"prompt":"customer: I planned to travel on 07\/02 and 07\/04. Please make sure that the connection is 1 and price limit is 200. ->","completion":" Please give me a moment.\n"}
+{"prompt":"customer: Sure. ->","completion":" Unfortunately there is no flights found under your required details.\n"}
+{"prompt":"customer: That's ok. Thank you for your information. ->","completion":" Thank you for reaching us.Have a nice day.\n"}
+{"prompt":"customer: I am Stephen Lopez. ->","completion":" How may I assist you at this moment?\n"}
+{"prompt":"customer: Owing to an emergency, I want to change my reservation. Can you please help me in that? ->","completion":" Sure, I am glad to help you out.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Please give me a moment to check your reservation status.\n"}
+{"prompt":"customer: Ok. ->","completion":" Sorry, we couldn't find any reservation on your name in our records.\n"}
+{"prompt":"customer: Ok, no problem. Thank you for your response. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: I am planning to visit Philadelphia, can you please book me a ticket from LAS to PHL? ->","completion":" Sure, I will help you. Can you please share your travel dates?\n"}
+{"prompt":"customer: My preferable journey dates are from 03\/17 to 03\/19. ->","completion":" Please wait a moment.\n"}
+{"prompt":"customer: Sure. ->","completion":" Hawaiian airlines are providing service on your route with 1 connection and fare is 100. Can I proceed?\n"}
+{"prompt":"customer: Please book my ticket with the name Margaret King. ->","completion":" Ok. Your booking is done with flight 1012.\n"}
+{"prompt":"customer: Thank you for booking my ticket. ->","completion":" Thank you for choosing us.\n"}
+{"prompt":"customer: Hello. I am Cynthia Jackson. ->","completion":" Hello, what can I serve you today?\n"}
+{"prompt":"customer: I want to attend an event in Washington. Can you book a flight ticket from IAD to IAH? ->","completion":" Sure, please share your preferred travelling dates?\n"}
+{"prompt":"customer: I want to travel on 04\/01 and 04\/03. ->","completion":" We found a Delta airline with fare of 100 matches your schedule. Shall I proceed with booking?\n"}
+{"prompt":"customer: Yes, proceed to booking. ->","completion":" Your ticket has been confirmed with flight number 1027. Thank you reaching us.\n"}
+{"prompt":"customer: My name is Margaret Smith. ->","completion":" How can I aid you?\n"}
+{"prompt":"customer: Can you please book me a flight ticket to LGA from EWR? ->","completion":" Sure, may I know your preferable journey dates please?\n"}
+{"prompt":"customer: Sure, my trip dates are from 11\/20 to 11\/22. ->","completion":" Wait for a while please.\n"}
+{"prompt":"customer: Ok, take your time. ->","completion":" Hawaiian airlines is available in your route with the ticket fare of 100, shall I proceed with the booking?\n"}
+{"prompt":"customer: Ok, please confirm my reservation. ->","completion":" Your ticket is booked with the flight-1004.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how may I be at your service today?\n"}
+{"prompt":"customer: Can you please help me to book a flight from JFK to HOU? ->","completion":" Sure, I will help you in booking the ticket. May I know your travelling dates please?\n"}
+{"prompt":"customer: Sure, I want to depart on Aug 10 and need to return on Aug 12. ->","completion":" Do you have any other specifications?\n"}
+{"prompt":"customer: I am looking for a flight with single connection. ->","completion":" According to your information, I have found a flight with single stop over in your journey with a minimum fare of 100 with flight number 1003. Shall I proceed with this flight?\n"}
+{"prompt":"customer: Ok, please proceed. ->","completion":" Please help me with your name for booking.\n"}
+{"prompt":"customer: Myself Paul Clark. ->","completion":" Your booking is done.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Most welcome.\n"}
+{"prompt":"customer: Could you please check the flight availability in economy class? ->","completion":" Sure, I am here to help you. Please let me know your travelling dates.\n"}
+{"prompt":"customer: My travelling dates are Oct 19 and Oct 21. ->","completion":" Kindly mention your respective airport codes.\n"}
+{"prompt":"customer: My source is SEA and destination is PHX. ->","completion":" Do you prefer any break in between journey?\n"}
+{"prompt":"customer: I need a single connecting flight. ->","completion":" Are there any other specifications for you?\n"}
+{"prompt":"customer: I want to return in the evening. ->","completion":" May I know your good name?\n"}
+{"prompt":"customer: I am David Moore. ->","completion":" According to your information, I have found a flight with single stop over in your journey with a minimum fare of 100 with flight number 1012. Shall I proceed with this flight?\n"}
+{"prompt":"customer: Ok, proceed. ->","completion":" Your booking is done in United Airlines.\n"}
+{"prompt":"customer: Hi, I am Brandon Lee. ->","completion":" Hello, how may I serve you today?\n"}
+{"prompt":"customer: I am planning to conduct an woman empowerment event at Chicago, can you help me in booking a ticket with single connection? ->","completion":" Sure, I will help you.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Can I know your source and destination airport codes?\n"}
+{"prompt":"customer: My source and destination airport codes are Minneapolis, MN-MSP and Chicago, IL-ORD. ->","completion":" On which dates are you going to travel?\n"}
+{"prompt":"customer: My travel dates are from 07\/29 to 07\/31. ->","completion":" Ok, wait a minute.\n"}
+{"prompt":"customer: Ok. ->","completion":" We found a flight on UA airline, flight number as 1027 with the fare of 100.\n"}
+{"prompt":"customer: Please proceed for booking. ->","completion":" Your ticket has been booked.\n"}
+{"prompt":"customer: My name is Larry Wilson. ->","completion":" How can I help you today?\n"}
+{"prompt":"customer: I have a plan to meet my friend in Oakland, can you help me for booking a flight ticket? ->","completion":" Sure, I will help you in booking. Can you please share your travel dates?\n"}
+{"prompt":"customer: My travelling dates are from 09\/02 till 09\/04. ->","completion":" Ok, may I know your airport codes?\n"}
+{"prompt":"customer: My travelling airport codes are from DTW to OAK. ->","completion":" Sorry, no flights are available on your route.\n"}
+{"prompt":"customer: That's ok, thank you for checking. ->","completion":" Welcome, have a nice day.\n"}
+{"prompt":"customer: I am Pamela Lewis. ->","completion":" How may I aid you?\n"}
+{"prompt":"customer: Can you please help me to change my existing reservation as my plan to attend a film festival got postponed? ->","completion":" Sure, I am ready to help you.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Sorry, there are no reservation found on your name.\n"}
+{"prompt":"customer: Ok, no problem. Thank you for the information. ->","completion":" Thank you for choosing us.\n"}
+{"prompt":"customer: Hello,. ->","completion":" Hello, how may I help you?\n"}
+{"prompt":"customer: I am Brain Gonzalez want to give a surprise to my mom on her birthday. Can you be  my helping hand in booking a ticket from Denver to Los Angeles. ->","completion":" Sure, we are here to help you. Could you please provide me your travelling details?\n"}
+{"prompt":"customer: Airport codes are CO- DEN to CA-LAX. ->","completion":" May I know your journey dates?\n"}
+{"prompt":"customer: I want to leave on june\/11 and return on june\/13. Please make sure that the price should not be 500 with a single connection. ->","completion":" We are happy to inform you that there is a flight found on your information.\n"}
+{"prompt":"customer: OK, please provide me flight details? ->","completion":" Flight details are Flight number:1008, airline: Hawaiian with price limit 200 and one connection. Shall I proceed for booking?\n"}
+{"prompt":"customer: OK, confirm my booking. ->","completion":" Your ticket has been confirmed.\n"}
+{"prompt":"customer: Thank you for your srvice. ->","completion":" Thank you.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello. How can I help you now?\n"}
+{"prompt":"customer: I am Nancy Jones, I want to change my recent reservation. Can you please help me with it? ->","completion":" Sure, I can help you in that.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Please wait for a while.\n"}
+{"prompt":"customer: Sure. ->","completion":" Sorry Nancy Jones, there is no active reservation on your name to change it.\n"}
+{"prompt":"customer: No issues, thank you for your assistance. ->","completion":" Thanks for choosing us.\n"}
+{"prompt":"customer: Could you please make a reservation with the name of Jacob Roberts to Oakland, OAK? ->","completion":" Sure, may I know your planned travel dates?\n"}
+{"prompt":"customer: My planned travel dates are 06\/27 - 06\/29. ->","completion":" Please share me your source point.\n"}
+{"prompt":"customer: My source is from Houston, IAH. ->","completion":" May I know your good name?\n"}
+{"prompt":"customer: I already mentioned above, please check it. ->","completion":" We are glad to say that, we found an airline: Frontier, flight number: 1002 and price is 100.\n"}
+{"prompt":"customer: Ok, proceed with the booking. ->","completion":" Your flight ticket has been reserved.\n"}
+{"prompt":"customer: Thank you for assisting me. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello,tell me how may I help you?\n"}
+{"prompt":"customer: I want to travel from New York, NY- JFK from 05\/26 to 05\/28. ->","completion":" OK,I can help you with that?\n"}
+{"prompt":"customer: My destination airport is New York, NY-LGA. Do you have any ticket for me? ->","completion":" OK, can you please tell me  your name?\n"}
+{"prompt":"customer: Sure, this is Patricia Wright. ->","completion":" OK,may I know your connection limit and price?\n"}
+{"prompt":"customer: I want my trip within the limits of 500 with connection 1. ->","completion":" OK,as per your requirements there is a flight for you,may I a ticket for you?\n"}
+{"prompt":"customer: Sure, you can book it for me. ->","completion":" OK,your ticket has been booked. Thank you.\n"}
+{"prompt":"customer: Hello. My name is Edward Young. ->","completion":" Hello, how can I serve you today?\n"}
+{"prompt":"customer: I would like to attend Environmental Science Conferences in Lawrence Hall of Science at Oakland, OAK. So, please help me with booking a connecting flight ticket. ->","completion":" Sure, may I know your journey dates?\n"}
+{"prompt":"customer: I will depart on 08\/13 and intend to back on 08\/15. ->","completion":" May I know your source point?\n"}
+{"prompt":"customer: I will board at LAX. ->","completion":" Do you need a halt in between your journey?\n"}
+{"prompt":"customer: Yes, I need a halt. ->","completion":" Sorry to say that, no flights were found with your given details.\n"}
+{"prompt":"customer: Not an issue, thank you. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: I want to cancel my reservation due to heavy snowfall in my region. ->","completion":" Sure, I will help you. May I know your name please to check your reservation status?\n"}
+{"prompt":"customer: Sure, my name is Jacob Allen. ->","completion":" Jacob, no reservation has been found on your name.\n"}
+{"prompt":"customer: No problem, thank you for checking. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how may I aid you today?\n"}
+{"prompt":"customer: My name is Catherine Robinson, I want to change my existing reservation. Can you please help me with it? ->","completion":" Sure, please wait for a while.\n"}
+{"prompt":"customer: Ok. ->","completion":" Sorry, we couldn't find a reservation on your name.\n"}
+{"prompt":"customer: Not an issue, thank you. ->","completion":" Thank you for choosing us.\n"}
+{"prompt":"customer: Hi,. ->","completion":" Hello,. On what way, can I assist you the best today?\n"}
+{"prompt":"customer: Please cancel my recent reservation. ->","completion":" Sure, I will help you in cancellation. To cancel your ticket, we need your name. Can you provide it?\n"}
+{"prompt":"customer: I am Katherine Baker. ->","completion":" Thanks for the details, please wait.\n"}
+{"prompt":"customer: Sure. ->","completion":" Thanks for your time. Sorry Katherine, Unfortunately there is no active reservation on your name to cancel it.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Thanks for choosing us for your ticket cancellation process.\n"}
+{"prompt":"customer: Would you please confirm a seat in flight which is heading to Boston, BOS? ->","completion":" Sure, we will help you.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Can you please share your connection limit?\n"}
+{"prompt":"customer: Yes, I need to halt in between my journey. ->","completion":" May I know your landing point?\n"}
+{"prompt":"customer: It's BOS, Boston. ->","completion":" When you are planning to make your journey?\n"}
+{"prompt":"customer: I planned my journey on 07\/01 to 07\/03. ->","completion":" Can you please let me know your take off airport?\n"}
+{"prompt":"customer: Origin point is Minneapolis, MSP. ->","completion":" Ok, please be on hold.\n"}
+{"prompt":"customer: Sure. ->","completion":" We found a connecting flight with Delta airlines, flight number 1006 and the fare of 100.\n"}
+{"prompt":"customer: Ok, you can confirm a seat. ->","completion":" To proceed further, may I know your name please?\n"}
+{"prompt":"customer: I am Margaret Wright. ->","completion":" Ok, your ticket has been confirmed with the name of Margaret Wright.\n"}
+{"prompt":"customer: Ok, Thank you. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hello, Pamela Baker here. ->","completion":" Hello, how may I guide you?\n"}
+{"prompt":"customer: I would like to play poker at Las Vegas. Can you help me in booking a ticket from DCA to LAS? ->","completion":" Sure, may I know your journey dates please?\n"}
+{"prompt":"customer: My planned journey dates are 12\/17 and 12\/19. ->","completion":" Please wait a moment.\n"}
+{"prompt":"customer: Ok, take your time. ->","completion":" Pamela, no flights has been found on your journey dates.\n"}
+{"prompt":"customer: Its ok, thank you for the information. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello. How can I help you?\n"}
+{"prompt":"customer: I am Patricia Baker. I want to stay for some more days at Minneapolis, can you please help me to change my flight reservation? ->","completion":" Please wait a moment to check the reservation status.\n"}
+{"prompt":"customer: Sure. ->","completion":" Sorry, no reservation found by your name.\n"}
+{"prompt":"customer: Not an issue. Anyway, thank you for checking. ->","completion":" Thanks.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello. How may I guide you today?\n"}
+{"prompt":"customer: I would like to book a ticket  from LAS to ATL to attend a meeting. ->","completion":" Sure, I will help you with that. Can you please share your preferable journey dates?\n"}
+{"prompt":"customer: My travel dates are as follows Dec 23 and Dec 25. ->","completion":" Do you have any airline preference?\n"}
+{"prompt":"customer: Yes, I prefer normal cost. ->","completion":" May I know your name please?\n"}
+{"prompt":"customer: My name is Jack Phillips. ->","completion":" Is there any connection limit?\n"}
+{"prompt":"customer: I prefer single connection flight with return in the evening. ->","completion":" Do you have any specifications?\n"}
+{"prompt":"customer: No. ->","completion":" I am sorry to say that there is no flight found under your details.\n"}
+{"prompt":"customer: No issue, thank you for the help. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hello, I am Alexander Scott. ->","completion":" Hello, how can I assist you?\n"}
+{"prompt":"customer: I need to alter my reservation, as my exam scheduled has been postponed. Please help me in changing? ->","completion":" Sure, please wait a moment.\n"}
+{"prompt":"customer: Ok. ->","completion":" Sorry, there is no reservation found on your name.\n"}
+{"prompt":"customer: Ok, no worries. Thanks for your help. ->","completion":" Thank  you for choosing us.\n"}
+{"prompt":"customer: Hi. I am Michelle Thompson. ->","completion":" Hello, how may I guide you today?\n"}
+{"prompt":"customer: I have to submit my research record at Houston university with my college friend from New York. Will you please help me in making an airline reservation? ->","completion":" Sure, I will help you. Could you please provide me your airport codes?\n"}
+{"prompt":"customer: My source code is NY-EWR and destination code is TX-IAH. ->","completion":" When you have planned to travel?\n"}
+{"prompt":"customer: My planned dates are 12\/11 and 12\/13. ->","completion":" Kindly mention your fare limit?\n"}
+{"prompt":"customer: Fare limit is under 5000. ->","completion":" We found a flight with Southwest airline and 1000 flight with fare 100 having a lay by.\n"}
+{"prompt":"customer: You can continue with booking. ->","completion":" Your ticked has been confirmed.\n"}
+{"prompt":"customer: Thank you for your kind service. ->","completion":" Thank you for picking us, have a great day.\n"}
+{"prompt":"customer: Hello,. ->","completion":" Hello, how may I assist you?\n"}
+{"prompt":"customer: I need to book a flight ticket to TX-DFW with a direct flight, so can you please help me out with this? ->","completion":" Sure, may I know your journey dates?\n"}
+{"prompt":"customer: I want to start on 02\/06 and return on 02\/08. ->","completion":" Can you share your origin airport code?\n"}
+{"prompt":"customer: My origin is Las Vegas, LAS. ->","completion":" May I know your good name for further process?\n"}
+{"prompt":"customer: My name is John Baker. ->","completion":" No flights found on your journey dates.\n"}
+{"prompt":"customer: Not a problem, thank you. ->","completion":" Thank you for choosing us, have a nice day.\n"}
+{"prompt":"customer: I have planned to visit DFW from JFK, please assist me in booking. ->","completion":" Sure, can you share your trip dates?\n"}
+{"prompt":"customer: My preferred dates are Mar 10th and return Mar 12th. ->","completion":" Do you have any preferences?\n"}
+{"prompt":"customer: Yes, I need economy class. ->","completion":" May I know your name?\n"}
+{"prompt":"customer: Barbara Martinez. ->","completion":" There is a connecting flight with number 1002 in airline Spirit, the fare is 100 in economy class. Can I book it?\n"}
+{"prompt":"customer: Proceed. ->","completion":" Your ticket is reserved, the depart time is 23:00 hours and return time is 13:00 hours.\n"}
+{"prompt":"customer: Thank you for booking. ->","completion":" Thank you for opting us.\n"}
+{"prompt":"customer: Myself Linda Thomas. I want to visit a trip.I just want to book a ticket. ->","completion":" Sure. Help me with the full details of journey.\n"}
+{"prompt":"customer: My airport codes are from PA-PHL to NV-LAS. ->","completion":" May I know the dates?\n"}
+{"prompt":"customer: My dates are from 08\/09 to 08\/11. ->","completion":" Sorry, there is no flight found.\n"}
+{"prompt":"customer: Ok, thank you for your help. ->","completion":" There is a flight with connection 1 and airline is UA. Can I book it?\n"}
+{"prompt":"customer: Ok. ->","completion":" Your ticket is booked with number 1029. Thank you.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how can I support you?\n"}
+{"prompt":"customer: Can you please book a ticket from ATL to LGA? As I'm planning to visit Statue of Liberty. ->","completion":" Sure, we are here to assist you. May I know your itinerary dates?\n"}
+{"prompt":"customer: Sure, my planned departure and return travel dates are 16th and 18th of December. ->","completion":" Would you like to travel in business class or economy class?\n"}
+{"prompt":"customer: I prefer business class to travel. ->","completion":" May I know your connection limit?\n"}
+{"prompt":"customer: My maximum connection has to be 1. ->","completion":" Sorry to notify to you that, there are no flights available with your needs.\n"}
+{"prompt":"customer: That's ok, thank you for giving the information. ->","completion":" For documentation, may I know your name please?\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello. How can I assist you?\n"}
+{"prompt":"customer: Is this Travel leaders agency? ->","completion":" Yes.\n"}
+{"prompt":"customer: I am Ruth Campbell, I am planning to travel from Houston to Denver to meet my friends after a long time. ->","completion":" Sure, I will help you to travel. May I know your airport codes?\n"}
+{"prompt":"customer: I am departing from HOU and my destination airport is DEN. ->","completion":" Ok, can you please provide me your travelling dates?\n"}
+{"prompt":"customer: My departure from Houston is on 09\/06 and return from Denver on 09\/08. ->","completion":" I am happy to say you this, I found a flight for you with 1 connection. Shall I proceed for booking?\n"}
+{"prompt":"customer: Yes, please proceed for booking. ->","completion":" Your ticket is reserved with flight number 1003 and airline is Southwest.\n"}
+{"prompt":"customer: Thanks for your assistance. ->","completion":" Thank you for choosing us. Welcome.\n"}
+{"prompt":"customer: Hello,. ->","completion":" Hello, how can I assist you today?\n"}
+{"prompt":"customer: I want to attend a press conference in the capital city of United States, DC- DCA>. ->","completion":" Sure, Can you please provide your source and travelling dates?\n"}
+{"prompt":"customer: My depart date is 08\/08 and return date is 08\/10 and I want to fly from Minneapolis, MN- MSP. ->","completion":" Ok, please wait for a while.\n"}
+{"prompt":"customer: Ok. ->","completion":" Thank you for waiting, No flights were found with your given details.\n"}
+{"prompt":"customer: Its ok, Thank you for the information. ->","completion":" May I know your name?\n"}
+{"prompt":"customer: I am Christine Adams. ->","completion":" Ok, Thank you for choosing us.\n"}
+{"prompt":"customer: Hello. I am William Jones. ->","completion":" Hello, how may I help you today?\n"}
+{"prompt":"customer: Could you please help em to book a flight from DEN - DCA to meet my cousin? ->","completion":" Sure, we are perky to help you. On which dates would you like me to book a flight ticket for you?\n"}
+{"prompt":"customer: My travel dates are 04\/19 and 04\/21. ->","completion":" Do you need a lay by in between your journey?\n"}
+{"prompt":"customer: Yes, I need a halt in between the journey. ->","completion":" Thank you for providing your details.\n"}
+{"prompt":"customer: Ok. ->","completion":" We found a flight in UA airline has fare 100 matches given specifications. Shall I proceed for booking?\n"}
+{"prompt":"customer: Ok, please proceed. ->","completion":" Your booking has been confirmed with flight number 1014.\n"}
+{"prompt":"customer: Hello. Ashley Thomas here. ->","completion":" Hello, what can I do for you now?\n"}
+{"prompt":"customer: Due to an emergency, I need to cancel my reservation. Can you please help me with it? ->","completion":" Sure, I will help you. Wait a minute, I will check and let you know the details.\n"}
+{"prompt":"customer: Ok. ->","completion":" Thanks for being patience. Sorry to say, no reservation was found on your name.\n"}
+{"prompt":"customer: Not an issue, thank you. ->","completion":" Thank you for your time with us.\n"}
+{"prompt":"customer: Hi. I am Daniel Moore. ->","completion":" Hello, how can I help you?\n"}
+{"prompt":"customer: I want to attend a political meeting at Charlotte. Can you help me in my reservation? ->","completion":" Sure, I will help you.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Please provide me your travelling dates?\n"}
+{"prompt":"customer: I Will start my journey on 06\/14. I will return back on 06\/16. ->","completion":" Kindly mention me your airport codes?\n"}
+{"prompt":"customer: My source airport code is New York, NY - JFK. My destination airport code is Charlotte, NC - CLT. ->","completion":" Do you have any specifications?\n"}
+{"prompt":"customer: I need a layover in my journey. I can pay up to 1000. ->","completion":" Please wait a minute.\n"}
+{"prompt":"customer: Sure. ->","completion":" Thanks for waiting, sorry to inform you that there are no flights with your specifications.\n"}
+{"prompt":"customer: Not an issue. Thank you for your kind information. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hello, I am Rachel Wilson. ->","completion":" Hello, how can I aid you today?\n"}
+{"prompt":"customer: Can you help me with a connection flight to Denver, CO-DEN from PA-PHL? ->","completion":" Sure, could you provide me your travel dates?\n"}
+{"prompt":"customer: I will start my journey from 02\/18 and will be returning on 02\/20. ->","completion":" Ok, please wait a moment I will check and get back to you.\n"}
+{"prompt":"customer: Sure. ->","completion":" We found  a flight with your requirement, price is 100 with a connection in between the journey. Your ticket is confirmed with Delta airline and flight number is 1006.\n"}
+{"prompt":"customer: Thanks for the information. ->","completion":" Thanks for reaching us, have a good day.\n"}
+{"prompt":"customer: Hello. I am Paul Nelson. ->","completion":" Hello, how may I aid you?\n"}
+{"prompt":"customer: Can you please help me in booking a flight ticket from NV-LAS  to reach TX-IAH? ->","completion":" Sure, may I have your travel dates?\n"}
+{"prompt":"customer: My journey dates are from Mar 17 to Mar 19. ->","completion":" Do you have any airlines preference?\n"}
+{"prompt":"customer: I prefer to travel in normal cost airlines. ->","completion":" May I know your connection limit?\n"}
+{"prompt":"customer: My connection limit is one. ->","completion":" In which class do you prefer to travel?\n"}
+{"prompt":"customer: I am comfortable with any class but make sure that my departure time is evening. ->","completion":" Ok, please be on hold. Let me check with the flight availability.\n"}
+{"prompt":"customer: Sure. ->","completion":" Sorry, there are no flights in this route as per your travelling details.\n"}
+{"prompt":"customer: That's ok, not a problem. Thanks for your information. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how can I assist you today?\n"}
+{"prompt":"customer: I am Rebecca wright, I plan to visit Denver, CO-DEN to visit my friend. Can you help me to find a fight from CA-SFO? ->","completion":" Sure, Can you share me your journey dates please?\n"}
+{"prompt":"customer: I will travel on 09\/10 and return on 09\/12. ->","completion":" Do you need any halt in between your journey?\n"}
+{"prompt":"customer: Yes, I need halt in between the journey. ->","completion":" We found Frontier airline with single connection under fare of 100. Shall I proceed for booking with airline number 1007?\n"}
+{"prompt":"customer: Sure. ->","completion":" Your ticket has been confirmed.\n"}
+{"prompt":"customer: Thank you for booking the flight ticket. ->","completion":" Thanks for connecting us.\n"}
+{"prompt":"customer: Hello. Jacob Taylor here. ->","completion":" Hello, how may I render you today?\n"}
+{"prompt":"customer: I am planning to book a flight ticket to HOU from IAD, can you please help me out? ->","completion":" Sure, I am here to help you.\n"}
+{"prompt":"customer: Thanks. ->","completion":" May I know your planned travel dates?\n"}
+{"prompt":"customer: Sure, my planned travelling dates are 01\/28 and 01\/30. ->","completion":" Do you need a lay by in between your journey?\n"}
+{"prompt":"customer: Yes, I need 1 connected flight. ->","completion":" Ok, please wait for a while.\n"}
+{"prompt":"customer: Ok, take your time. ->","completion":" We found a connecting flight for you, flight details are as Spirit airline, fare 100 and flight number 1002.\n"}
+{"prompt":"customer: Ok, please confirm my reservation. ->","completion":" Your reservation has been confirmed.\n"}
+{"prompt":"customer: Thank you for the help. ->","completion":" Thank you for opting us.\n"}
+{"prompt":"customer: I am Helen Perez here, I want to reserve my ticket from IAH to LAX, can you please help me out? ->","completion":" Sure, I am gleeful to help you. Could you please provide your travelling dates to search for the flight?\n"}
+{"prompt":"customer: Sure, my dates of journey are from Jul, 27 to Jul, 29. ->","completion":" May I know your connection limit?\n"}
+{"prompt":"customer: Yes, I need a connecting flight. ->","completion":" Do you have any other specifications?\n"}
+{"prompt":"customer: Yes, I need a depart time at morning. ->","completion":" Here I found a connecting flight-1024 in economy class. Shall I proceed?\n"}
+{"prompt":"customer: Ok, please proceed. ->","completion":" Ok, booking is done on JetBlue airlines.\n"}
+{"prompt":"customer: Thank you for your help in booking. ->","completion":" Thanks for reaching is.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello, how may I help you?\n"}
+{"prompt":"customer: Unfortunately I have an emergency meeting so I want to cancel my reservation, can you please help in cancelling my reservation? ->","completion":" Sure, I will help you.\n"}
+{"prompt":"customer: Thank you. ->","completion":" May I know your good name please ?\n"}
+{"prompt":"customer: I am Emma Young. ->","completion":" Please wait for a while.\n"}
+{"prompt":"customer: Ok. ->","completion":" Sorry, there is no reservation found on your given name.\n"}
+{"prompt":"customer: Ok, no problem. Thank you for your quick response. ->","completion":" Thanks for choosing us.\n"}
+{"prompt":"customer: My name is Gary Walker. I am searching for the flight which is departing in the morning time from Denver, can you please help me to book the flight ticket? ->","completion":" Sure, I will help you to book a flight ticket. Can you please share me your travelling dates?\n"}
+{"prompt":"customer: Thank you for accepting my request. My planned travelling dates are Nov\/16 and Nov\/18. ->","completion":" Ok, may I know your airport codes?\n"}
+{"prompt":"customer: The origin and destination airport codes are DEN and IAH. ->","completion":" Please give me a moment. Here, I found a flight for you with single connection and ticket fare is 300 in economy class.\n"}
+{"prompt":"customer: I am looking for a business class flight which is returning in the evening time. So, please recheck for that. ->","completion":" Sorry, no flights are available on your route.\n"}
+{"prompt":"customer: It's ok, not a problem with that. ->","completion":" Thank you for choosing us.\n"}
+{"prompt":"customer: Thank you for your time. ->","completion":" Welcome, have a nice day.\n"}
+{"prompt":"customer: Can you please help me to change my reservation? ->","completion":" Sure, may I know your name?\n"}
+{"prompt":"customer: My name is Kimberly Scott. ->","completion":" Can I know your new airport codes?\n"}
+{"prompt":"customer: Sure, my source point is EWR and destination point is AUS. ->","completion":" Sure, could you please provide your travelling dates to search for the flight?\n"}
+{"prompt":"customer: My travelling dates are on May 11 and May 13. ->","completion":" Do you have any requirements?\n"}
+{"prompt":"customer: I need a direct flight. ->","completion":" Sorry to say, no flight is available for you.\n"}
+{"prompt":"customer: Ok, not a problem. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how can I provide assistance to you?\n"}
+{"prompt":"customer: Please book a ticket from HOU to DEN to attend an interview. ->","completion":" Sure, we are here to help you. May I know your travel dates?\n"}
+{"prompt":"customer: My travelling dates are Oct 15 and Oct 17. ->","completion":" Do you need any way station in your journey?\n"}
+{"prompt":"customer: I want single way station. ->","completion":" At what time, would you like to travel?\n"}
+{"prompt":"customer: I am comfortable with any time. ->","completion":" Do you have any other requirements?\n"}
+{"prompt":"customer: No. ->","completion":" May I know your good name please?\n"}
+{"prompt":"customer: I am Edward Collins. ->","completion":" There is a connecting flight with fare of 100 and 1024 flight number. Shall I proceed?\n"}
+{"prompt":"customer: Ok, please proceed. ->","completion":" Your seat has been reserved with Spirit airlines in economy class.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Thank you for choosing us.\n"}
+{"prompt":"customer: I am Kevin Lee. I want to book a ticket from ORD to MSP to attend my friend's birthday party, can you help me in booking? ->","completion":" May I know on which dates you are willing to travel?\n"}
+{"prompt":"customer: I am departing on Mar 22 and return on Mar 24. ->","completion":" Do you require any stopovers in your journey?\n"}
+{"prompt":"customer: I need a flight with connection limit 1. ->","completion":" Do you prefer any specification in between journey?\n"}
+{"prompt":"customer: No, I do not have any other specifications. ->","completion":" There is a connected flight in frontier airlines with the fare 300.\n"}
+{"prompt":"customer: Please proceed for booking. ->","completion":" Your booking is done with the flight number 1012.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello. What can I do for you?\n"}
+{"prompt":"customer: Actually, I want to change my reservation because my trip got postponed. Can you help to cancel my flight ticket? ->","completion":" Sure, I can help you with it. Before proceeding, may I know your name please?\n"}
+{"prompt":"customer: Myself Raymond Allen. ->","completion":" Raymond, there is no reservation on your details.\n"}
+{"prompt":"customer: Oh! ok, thank you for the information. ->","completion":" Welcome.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how may I aid you today from end?\n"}
+{"prompt":"customer: I am Frank Davis from Boston. Could you please help me in flight ticket booking process from BOS to ATL? ->","completion":" Sure  Frank Davis, I am here to help you out. Please provide me your trip dates.\n"}
+{"prompt":"customer: Thank you for your response, I want to take off on Apr 22 and please confirm my return ticket also on Apr 24. ->","completion":" Please allow me a moment.\n"}
+{"prompt":"customer: Ok. ->","completion":" Here is a flight with 1 stop and price is 200 in economy class, can I proceed with it?\n"}
+{"prompt":"customer: Please confirm this flight ticket for me. ->","completion":" Your ticket has been booked with 1010 flight in frontier airlines.\n"}
+{"prompt":"customer: Thank you for your help. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Emma Wilson here. ->","completion":" Emma Wilson, nice to meet you.\n"}
+{"prompt":"customer: I would like to book a ticket from OAK to JFK, could you please help me? ->","completion":" Sure, let me know travel dates too.\n"}
+{"prompt":"customer: My journey dates are 12\/11 and 12\/13. ->","completion":" I got a flight for you with 0 connection. Shall I proceed?\n"}
+{"prompt":"customer: Yes, proceed. ->","completion":" Ok, your ticket has been booked with flight number 1016 and your airline is Spirit.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how may I oblige you today?\n"}
+{"prompt":"customer: My name is Helen Young, I want to book a flight from TX-HOU to Denver, CO-DEN to meet my sister. Can you book a connecting flight for me? ->","completion":" When you are willing to travel?\n"}
+{"prompt":"customer: I will fly on 11\/30 and return on 12\/02. ->","completion":" Please wait for a moment.\n"}
+{"prompt":"customer: Sure. ->","completion":" We found 1002 Southwest airlines with single connection with price 100.\n"}
+{"prompt":"customer: Please proceed with booking. ->","completion":" Your, booking has been confirmed.\n"}
+{"prompt":"customer: Thank you for helping me with booking. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: I am Kenneth Taylor. I want to travel from ATL to DEN. Can you help me in booking a flight ticket? ->","completion":" When would you like to travel?\n"}
+{"prompt":"customer: I want to fly in the flight on Feb 10 and Feb 12. ->","completion":" Is there any class preference for you?\n"}
+{"prompt":"customer: No, but I want to depart in morning time. ->","completion":" We found a connecting flight with an airline Spirit of flight 1008 and cost is 600 in business class. Can I proceed with the booking?\n"}
+{"prompt":"customer: Proceed to booking. ->","completion":" Your ticket has been booked with depart time 3:00 AM.\n"}
+{"prompt":"customer: I want to cancel my recent reservation. Can you help me out? ->","completion":" Sure, can you help me with your name?\n"}
+{"prompt":"customer: Deborah Lee. ->","completion":" Sorry, there is no reservation found under your name.\n"}
+{"prompt":"customer: That's ok. Anyways, thank you. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello, how may I aid you?\n"}
+{"prompt":"customer: I am Eric Jackson. Can you help me in booking from DEN to CLT, as there is a business meeting? ->","completion":" I am here to help you about your flight ticket booking. Can you please provide your planned dates of journey?\n"}
+{"prompt":"customer: My trip dates are 07\/29 to 07\/31. ->","completion":" I found a flight in Spirit airlines with a ticket fare of 100 and there is a 1 stop and go in your trip in 1016 flight, can I proceed with ticket booking?\n"}
+{"prompt":"customer: You can reserve it. ->","completion":" I have booked your flight ticket successfully.\n"}
+{"prompt":"customer: Thank you for helping. ->","completion":" Most welcome, thank you for choosing our service.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how can I assist you?\n"}
+{"prompt":"customer: I would like to cancel my recent reservation because my trip dates are got postponed, can you help me? ->","completion":" Sure, I can help you with that. May I know your good name please?\n"}
+{"prompt":"customer: Anna Rodriguez here. ->","completion":" Ok, please wait for a while.\n"}
+{"prompt":"customer: Sure. ->","completion":" Anna Rodriguez, there is no active reservation found under your name to do cancellation.\n"}
+{"prompt":"customer: Karen Jones is my name. ->","completion":" How may I assist you?\n"}
+{"prompt":"customer: I am going to celebrate the Bate-aux new York dinner cruise at New York. ->","completion":" Ok.\n"}
+{"prompt":"customer: So, could you help me in booing a ticket under the price limit of 200? ->","completion":" Sure, we are happy to help you.\n"}
+{"prompt":"customer: Ok. ->","completion":" Can you please share your journey locations?\n"}
+{"prompt":"customer: Journey locations are Los Angeles, LAX and New York, EWR. ->","completion":" When you are planning to travel?\n"}
+{"prompt":"customer: I am planning to travel on 12\/05 to 12\/07. ->","completion":" Please wait a while, I will search a flight for you.\n"}
+{"prompt":"customer: Sure, I will wait. ->","completion":" Thanks for waiting, there is a connecting flight available with fare 100 in AA airline. May I proceed?\n"}
+{"prompt":"customer: Fine, confirm it. ->","completion":" Your reservation was confirmed with flight number 1011.\n"}
+{"prompt":"customer: Thank you for addressing me. ->","completion":" Thank you for opting us.\n"}
+{"prompt":"customer: Can you please book me a flight ticket from CLT to MSP? ->","completion":" Sure, I am willing to help you for this. Could you please share me your trip dates?\n"}
+{"prompt":"customer: My trip dates are from Nov 23rd to Nov 25th. ->","completion":" Is there any connection limit?\n"}
+{"prompt":"customer: I want a single connection. ->","completion":" Do you have any other specifications regarding your journey?\n"}
+{"prompt":"customer: I prefer a normal-cost airline. ->","completion":" May I know your name please?\n"}
+{"prompt":"customer: I am Jonathan White. ->","completion":" As per your intent, there is a flight with United Airlines and the ticket fare is 100. Would you like me to make the booking now?\n"}
+{"prompt":"customer: Yes, please proceed. ->","completion":" Your ticket is reserved in economy class with the flight-1019. Your depart time is 9:00 hours and again your arrival time is 15:00 hours.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Thank you very much for approaching our agency.\n"}
+{"prompt":"customer: Frank Hall here. ->","completion":" How may I guide you today?\n"}
+{"prompt":"customer: I want to travel from LGA to EWR for attending a Seminar. Can you please help me for booking the flight ticket? ->","completion":" Sure, I will help you with that. Can you please share your preferable journey dates?\n"}
+{"prompt":"customer: My travelling dates are from 08\/07 to 08\/09. ->","completion":" Please wait for a minute.\n"}
+{"prompt":"customer: Ok, I will wait. ->","completion":" I am sorry to say that there is no flight found.\n"}
+{"prompt":"customer: Anyway, thanks for the information. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello, how may I assist you today?\n"}
+{"prompt":"customer: Owing to an emergency, my meeting with client got cancelled. So I want you to cancel my existing reservation. ->","completion":" Sure, we are here to help you with cancellation. To proceed further, May I know your name?\n"}
+{"prompt":"customer: Sure, John Edwards here. ->","completion":" Please wait for a while.\n"}
+{"prompt":"customer: Sure. ->","completion":" Thanks for your time, we found a reservation on your name and it is successfully cancelled.\n"}
+{"prompt":"customer: Hi. I am Christine Parker. ->","completion":" Hello, how may I guide you at this moment?\n"}
+{"prompt":"customer: Would it be possible to cancel my recent reservation? ->","completion":" Yes, It is possible.\n"}
+{"prompt":"customer: Thanks. ->","completion":" Please stay online, I will check the previous list and revert to you.\n"}
+{"prompt":"customer: Sure. ->","completion":" There is a reservation found on your name, Are you shall I proceed for cancellation?\n"}
+{"prompt":"customer: Yes. ->","completion":" Your ticket has been cancelled.\n"}
+{"prompt":"customer: Thanks for your help. ->","completion":" My pleasure.\n"}
+{"prompt":"customer: Can you please help me to book a flight from AUS to CLT? ->","completion":" Sure, I will help you in booking the ticket. May I know your travelling dates please?\n"}
+{"prompt":"customer: Sure, I want to travel on Feb 15 and need to return on Feb 17. ->","completion":" Do you have any other specifications?\n"}
+{"prompt":"customer: I need a connecting flight. ->","completion":" Please help me with your name for booking.\n"}
+{"prompt":"customer: Myself Donald Rodriguez. ->","completion":" According to your information, I have found a flight with single stop over in your journey with a minimum fare of 100 with flight number 1019. Shall I proceed with this flight?\n"}
+{"prompt":"customer: Ok, please proceed. ->","completion":" Your booking is done.\n"}
+{"prompt":"customer: Hello,. ->","completion":" Hello, may I know your name?\n"}
+{"prompt":"customer: I want to change my existing reservation which is with the name Brenda Smith as my Business meeting got postponed. ->","completion":" Please wait for a moment, while I check.\n"}
+{"prompt":"customer: OK, sure. ->","completion":" Thanks for waiting, sorry to inform there is no reservation found on your name.\n"}
+{"prompt":"customer: OK, that's fine. Thank you. ->","completion":" Thank you to connecting with us, have a nice day.\n"}
+{"prompt":"customer: Hello, myself Helen Gonzalez. ->","completion":" Hello. How may I help you out?\n"}
+{"prompt":"customer: I am planning to book a flight ticket to LAS from LGA, can you please help me out? ->","completion":" Sure, I will help you in booking the ticket. May I know your travelling dates please?\n"}
+{"prompt":"customer: Sure, my planned travelling dates are Feb 10 and Feb 12. ->","completion":" There is a flight with connection 1 and price 400, can I proceed?\n"}
+{"prompt":"customer: Ok, please confirm my reservation. ->","completion":" Ok, your ticket has been booked with flight number 1026.\n"}
+{"prompt":"customer: Thank you for the help. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: I am  Carol Williams. I want to book a fight ticket from PHX to ORD. Can you find a flight ticket for me? ->","completion":" Sure, may I know your travel dates to search available flight for you?\n"}
+{"prompt":"customer: Sure, I am planning to travel on these days that is on 02\/02 and back on 02\/04. ->","completion":" Wait for a minute, to check.\n"}
+{"prompt":"customer: Ok, make sure that the connection limit 1. ->","completion":" Sorry, I could not find any flight with your connection.\n"}
+{"prompt":"customer: Ok, no problem. Thank you for your information. ->","completion":" My pleasure.\n"}
+{"prompt":"customer: Hello, I am Donald Mitchell. ->","completion":" Hello, how may I render you?\n"}
+{"prompt":"customer: I would like to fly to Las Vegas, NV - LAS to meet my old friend to start a new business. Can you render me for booking on 08\/08? ->","completion":" Sure, I am gleeful to help you. Could you please mention your return date?\n"}
+{"prompt":"customer: Sure, I have a plan to return on 08\/10. ->","completion":" Let me know your preferred boarding point please?\n"}
+{"prompt":"customer: My boarding airport is Orlando, FL - MCO. ->","completion":" Do you have any specifications?\n"}
+{"prompt":"customer: I need a direct flight. ->","completion":" Thank you for providing details. Sorry to notify you that there is no direct flights available on provided details.\n"}
+{"prompt":"customer: Ok, thanks for your information. ->","completion":" Thank you for connecting with us.\n"}
+{"prompt":"customer: I am Rachel Davis. ->","completion":" How can I guide you?\n"}
+{"prompt":"customer: I want to change my reservation, due to heavy rainfall in New York. Can you please help me in change in existing reservation. ->","completion":" Sure, give me a minute.\n"}
+{"prompt":"customer: Ok. ->","completion":" Sorry, there is no reservation found.\n"}
+{"prompt":"customer: That's ok, thank you for reaching us. ->","completion":" Thank you for opting us.\n"}
+{"prompt":"customer: I am Charles Martin. ->","completion":" How can I assist you today?\n"}
+{"prompt":"customer: I need to cancel my reservation, can you help me out? ->","completion":" Sure, will you please give me a moment?\n"}
+{"prompt":"customer: Sure. ->","completion":" Thanks for waiting, there is no reservation found under your name.\n"}
+{"prompt":"customer: That's ok, thank you for your information. ->","completion":" Welcome, have a great day.\n"}
+{"prompt":"customer: Myself Mark Brown here. I  need to fly Las Vegas for my college admission, could you please help me in booking my flight ticket from ATL to LAS? ->","completion":" Sure, can you please let me know your journey dates that you wish to travel?\n"}
+{"prompt":"customer: My travel dates are 11\/11 and 11\/13. ->","completion":" Do you need a flag stop in between your journey?\n"}
+{"prompt":"customer: I need a connecting flight. ->","completion":" May I know how much do you want to spend on flight ticket?\n"}
+{"prompt":"customer:  I can spend upto 500. ->","completion":" Please wait for a while.\n"}
+{"prompt":"customer: OK. ->","completion":" We found a flight in Southwest airlines, flight number is 1005 with one connection price is 100. Shall I proceed?\n"}
+{"prompt":"customer: Ok, you can proceed. ->","completion":" Ok, your ticket has been confirmed in economy class.\n"}
+{"prompt":"customer:  Thank you for booking. ->","completion":" Thank you for opting us.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello. How could I support you today?\n"}
+{"prompt":"customer: Could you please book a flight ticket from EWR to SEA as I want to attend a pioneer festival? ->","completion":" Sure, I am happy to help you in booking.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Will you please let me know your planned trip dates?\n"}
+{"prompt":"customer: My trip dates are Oct 19 and Oct 21. ->","completion":" Is there any other requirements?\n"}
+{"prompt":"customer: I need a single connecting flight. ->","completion":" May I know your name please for documentation purpose?\n"}
+{"prompt":"customer: My name is Paul Carter. ->","completion":" There is a flight found with an Spirit airline of flight 1018 in an economy class with single connection. Shall I proceed with the booking?\n"}
+{"prompt":"customer: Yes, proceed. ->","completion":" Your ticket has been confirmed.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how can I help you?\n"}
+{"prompt":"customer: Can you please help me to book a flight from MCO to MSP? ->","completion":" Sure, let me know your journey dates.\n"}
+{"prompt":"customer: My planned travel dates are Jan 14th and 16th. ->","completion":" Is there any preference in connection limit?\n"}
+{"prompt":"customer: I prefer maximum one connection between my journey. ->","completion":" May I know your name to proceed further?\n"}
+{"prompt":"customer: My name is Justin Allen. ->","completion":" Please wait a moment.\n"}
+{"prompt":"customer: Sure. ->","completion":" Justin Allen, there is a direct flight available for you with price 500. Are you ok with that?\n"}
+{"prompt":"customer: Please proceed with the booking. ->","completion":" Your booking has been done in business class in American airlines with flight number 1002.\n"}
+{"prompt":"customer: Hello, I am Benjamin Smith. ->","completion":" Hello Smith, how can I help you for today?\n"}
+{"prompt":"customer: I want to book a ticket from ATL to EWR. ->","completion":" OK, could you mention your travel dates?\n"}
+{"prompt":"customer: My travelling dates will be from 08\/25 and 08\/27. ->","completion":" OK, there is a flight 1005 in airline Spirit having connection 1 and price is 100. Shall I proceed with your booking?\n"}
+{"prompt":"customer: Sure, proceed my booking. ->","completion":" OK, your booking is done. Have a great journey!.\n"}
+{"prompt":"customer: My name is Virginia Smith. ->","completion":" How may I guide you?\n"}
+{"prompt":"customer: I want to book a flight from BOS to CLT. ->","completion":" Ok, can I know your preferable dates?\n"}
+{"prompt":"customer: The dates are from 03\/30 to 04\/01. ->","completion":" I found a flight 1011 of UA airlines matches with your preferences, can I proceed?\n"}
+{"prompt":"customer: Please proceed with the booking. ->","completion":" Your ticket is booked.\n"}
+{"prompt":"customer: Thank you for your help. ->","completion":" Thank you, have a good day.\n"}
+{"prompt":"customer: Can you please search a flight ticket from AUS to LGA? ->","completion":" Sure, may I know your travel dates please?\n"}
+{"prompt":"customer: Ok, my travelling dates are 10\/25 and 10\/27. ->","completion":" Thanks for your patience. I have found Delta airlines which flies with one connection. May I know your name please?\n"}
+{"prompt":"customer: Ok, myself Kimberly Carter. Please confirm my flight ticket. ->","completion":" Thank you Kimberly. Sure your flight ticket has been confirmed now.\n"}
+{"prompt":"customer: Ok, fine thank you for your help. ->","completion":" Thank you.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello. How may I assist you?\n"}
+{"prompt":"customer: I am looking for a flight from OAK to JFK, can you help me in booking? ->","completion":" Sure, can you please share your planned trip dates?\n"}
+{"prompt":"customer: Sure, my planned travel dates are Jan 09 and Jan 11. ->","completion":" May I know your name please to proceed further?\n"}
+{"prompt":"customer: Myself Melissa Martinez. ->","completion":" Do you need a connecting flight or a direct flight?\n"}
+{"prompt":"customer: I prefer for a connecting flight. ->","completion":" Do you have any other specifications?\n"}
+{"prompt":"customer: No. ->","completion":" Melissa Martinez, no flights has been found on your planned journey dates.\n"}
+{"prompt":"customer: That's ok, no problem. Thank you for the information. ->","completion":" Thank you for choosing us.\n"}
+{"prompt":"customer: Hello. I am Betty Jones. ->","completion":" Hello, how may I assist you?\n"}
+{"prompt":"customer: I want to cancel my recent reservation, can you please help me with this? ->","completion":" Sure, please wait for a moment.\n"}
+{"prompt":"customer: Sure, take your time. ->","completion":" Sorry, there is no reservation found on your name in our database to cancel.\n"}
+{"prompt":"customer: Ok, no problem. Thank you for your information. ->","completion":" You are welcome.\n"}
+{"prompt":"customer: I am Samuel Green. ->","completion":" How may I guide you today?\n"}
+{"prompt":"customer: I want to book a ticket from LGA to MSP, for attending a birthday party of my friend. ->","completion":" Sure, I will help you with that.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Can  you please share your journey dates?\n"}
+{"prompt":"customer: Sure, my travelling dates are 11\/16 and 11\/18. ->","completion":" Wait for a minute.\n"}
+{"prompt":"customer: Sure. ->","completion":" I am sorry to say that there is no flight found.\n"}
+{"prompt":"customer: It's ok, thanks for your information. ->","completion":" Thank you for contacting us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how can I be a help for you?\n"}
+{"prompt":"customer: I'm Debra Mitchell. I am planning to attend live music concert at Detroit, DTW.Can you please help me with booking a flight ticket from DTW? ->","completion":" Sure, I will help you.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Can you please share your preferable dates to travel?\n"}
+{"prompt":"customer: Sure, I would like to take off on 07\/31 and return back on 08\/02. ->","completion":" As per your request, there is a flight available in this route from Frontier airlines with 1 connecting flight. Do you like to travel in this airlines?\n"}
+{"prompt":"customer: Yes, please proceed with the booking if the price limit does not exceed 1000. ->","completion":" Your ticket is booked successfully with flight 1020.\n"}
+{"prompt":"customer: I appreciate your help, thank you. ->","completion":" You are most welcome. Have a safe flight.\n"}
+{"prompt":"customer: I am Gregory Thomas, I need to travel to Houston, IAH. So please help me to book a flight ticket from DCA. ->","completion":" May I know your travelling dates?\n"}
+{"prompt":"customer: My planned dates are 07\/16 and 07\/18. ->","completion":" There is a flight available with price 100 and flight number is 1018, would you like to proceed with the booking?\n"}
+{"prompt":"customer: Can you tell me the connection limit please? ->","completion":" Connection limit is 1.\n"}
+{"prompt":"customer: Ok, please book my ticket for this flight. ->","completion":" Your booking is confirmed.\n"}
+{"prompt":"customer: Thank you so much for your help. ->","completion":" You are welcome.\n"}
+{"prompt":"customer: I am Gary Hill. ->","completion":" Ok.\n"}
+{"prompt":"customer: I need to reach Pick Place Market in Seattle on a meeting with manager. Can you please book a flight ticket from DFW to SEA? ->","completion":" Sure, may I know the travelling dates of your journey?\n"}
+{"prompt":"customer: Sure, my travel dates are 08\/07 and 08\/09. Please check with connection 1. ->","completion":" Please wait for  a while.\n"}
+{"prompt":"customer: Sure, take your time. ->","completion":" Based on your requirement there is one flight matching with your request has the flight price 100 in Spirit airline.\n"}
+{"prompt":"customer: That's great. ->","completion":" Can I proceed with this booking?\n"}
+{"prompt":"customer: Please confirm it. ->","completion":" Your ticket has been confirmed with the flight 1014.Have a safe journey.\n"}
+{"prompt":"customer: Thank you for your help. ->","completion":" You are welcome.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello. May I know your name?\n"}
+{"prompt":"customer: I want a connecting flight, can you book a ticket under name Timothy Gonzalez? ->","completion":" Sure, I will help you. May I know your airport details?\n"}
+{"prompt":"customer: I want exhibit my arts at Museum of Fine Arts, Houston. My airport codes are from SEA to IAH. ->","completion":" Please share me your journey dates?\n"}
+{"prompt":"customer: My journey dates are from 04\/11 to 04\/13. ->","completion":" Please wait for a moment.\n"}
+{"prompt":"customer: Make sure that price limit should not exceed 5000. Take your time. ->","completion":" Thanks for waiting, I found a flight with price of 100. Flight number is 1010 and airline is Southwest. Shall I book the ticket on flight 1010?\n"}
+{"prompt":"customer: Sure, proceed booking. ->","completion":" Ok. Your flight ticket has been booked.\n"}
+{"prompt":"customer: Thank you for quick response. ->","completion":" Thank you, have a nice journey.\n"}
+{"prompt":"customer: My planned trip has been postponed due to shortage of holidays. Can you please cancel my recent reservation? ->","completion":" Sure, may I know your name please so that I will check the status and get back to you?\n"}
+{"prompt":"customer: Michelle Thompson is my name. ->","completion":" Ok, please wait a minute.\n"}
+{"prompt":"customer: Sure. ->","completion":" Thank you for waiting, sorry to say no reservation found with your name.\n"}
+{"prompt":"customer: That's not an issue. Thanks for your response. ->","completion":" Thank you for reaching us, have a nice day.\n"}
+{"prompt":"customer: Please help me in booking flight ticket from SEA to EWR to attend an event. ->","completion":" Sure, may I know your trip dates please?\n"}
+{"prompt":"customer: My trip dates are Nov 08 to Nov 10. ->","completion":" Do you have any other requirements?\n"}
+{"prompt":"customer: I prefer to travel in connecting flight. ->","completion":" Can I know your name please?\n"}
+{"prompt":"customer: Stephen Hall here. ->","completion":" Ok, please wait for a while.\n"}
+{"prompt":"customer: Sure. ->","completion":" Thank you for waiting and we have found a flight in economy class with 1 connection in American airlines and the fare of your flight will be 100. Do you like me to proceed your booking with this flight?\n"}
+{"prompt":"customer: You can proceed. ->","completion":" Ok, your ticket is booked with the flight number 1005.\n"}
+{"prompt":"customer: Thank you for booking. ->","completion":" Most welcome.\n"}
+{"prompt":"customer: Hello, Sharon Thompson here. ->","completion":" Hello, how may I help you?\n"}
+{"prompt":"customer: I am planning to shoot a documentary to the famous places in Oakland, CA - OAK. Can you aid me for booking with a direct flight? ->","completion":" Sure, can I have your trip dates?\n"}
+{"prompt":"customer: My trip dates are on 09\/22 to 09\/24. ->","completion":" Help me with the source code?\n"}
+{"prompt":"customer: My source is Washington, DC - DCA. ->","completion":" Sorry, we do not found any flights running in your given dates.\n"}
+{"prompt":"customer: That's Ok, thanks for your information. ->","completion":" Thank you for your approach.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how may I aid you now?\n"}
+{"prompt":"customer: Can you please help me in booking a flight ticket to JFK from OAK? ->","completion":" Ok, may I know your planned dates for this journey?\n"}
+{"prompt":"customer: Sure, my planned dates of journey are Feb 01 and Feb 03. ->","completion":" Ok, may I know your connection limit?\n"}
+{"prompt":"customer: Yes, I need single connecting flight. ->","completion":" Do you have any other requirements?\n"}
+{"prompt":"customer: No. ->","completion":" Meanwhile, may I know your name?\n"}
+{"prompt":"customer: Sure, my name is Patricia Walker. ->","completion":" Flight-1029 is available for you with 1 connection by American Airlines with economy class with depart time at 15:00 hours and return time at 14:00 hours. Can I book it for you?\n"}
+{"prompt":"customer: Yes, you can you book the flight for my journey. ->","completion":" Patricia Walker, your ticket is successfully booked.\n"}
+{"prompt":"customer: Thank you for your kind service. ->","completion":" Thank you for connecting with our services.\n"}
+{"prompt":"customer: I am Scott Wilson. ->","completion":" How can I assist you?\n"}
+{"prompt":"customer: I am planning to visit Olympic National Park at Washington, could you please help me with booking a flight ticket from ATL to IAD? ->","completion":" Sure, I will help you. May  I know your planned journey dates?\n"}
+{"prompt":"customer: I would like to depart on Jan 31st and return on Feb 2nd. ->","completion":" Can I have your connection limit?\n"}
+{"prompt":"customer: I need a connecting flight. ->","completion":" Let me know your class preference.\n"}
+{"prompt":"customer: I am comfortable with any class. Make sure that my depart time and return time must be afternoon. ->","completion":" Thank you for sharing the details. I am sorry to inform you that, there were no flights available that matches your requirements.\n"}
+{"prompt":"customer: Ok, not an issue. Anyways, thank you for the information. ->","completion":" Thank you for availing us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how may I serve you?\n"}
+{"prompt":"customer: Could you book my ticket in a connecting flight? ->","completion":" Sure, help me with the trip dates?\n"}
+{"prompt":"customer: My trip dates are July 19 and July 21. ->","completion":" May I know your airport codes that you wish to board and land?\n"}
+{"prompt":"customer: I want to travel from ATL to ORD. ->","completion":" Do you have any class preferences?\n"}
+{"prompt":"customer: I prefer economy class. ->","completion":" May I know your name please?\n"}
+{"prompt":"customer: Sandra Green here. ->","completion":" We found a flight in an airline Delta with 1004 number having a single connection price of 200 in an economy class. Shall I reserve it?\n"}
+{"prompt":"customer: Please book my ticket. ->","completion":" Your flight ticket has been booked.\n"}
+{"prompt":"customer: I need to travel HOU and DFW, can you please reserve flight ticket? ->","completion":" Sure, can I know the travel dates please?\n"}
+{"prompt":"customer: My travelling dates are Apr,29 and May,01. ->","completion":" May I know your name please?\n"}
+{"prompt":"customer: Myself Emma Young. ->","completion":" Do you have any requirements?\n"}
+{"prompt":"customer: My return time should be in the evening. ->","completion":" Ok, wait a moment please.\n"}
+{"prompt":"customer: Make sure I need a connecting flight. ->","completion":" Sorry, there are no flights available as per your request.\n"}
+{"prompt":"customer: Oh! Sad to hear that. Anyway, I will find another alternative to complete my journey. ->","completion":" Thank you for approaching us.\n"}
+{"prompt":"customer: Hello, I am Anthony White. ->","completion":" Hello, what can I do for you?\n"}
+{"prompt":"customer: I would like to book a flight ticket to  Atlanta, GA-ATL to meet my grand parents on 05\/10. Can you help me with this? ->","completion":" Sure, may I know your source airport code?\n"}
+{"prompt":"customer: My boarding point is Las Vegas, NV-LAS. ->","completion":" When did you plan to return?\n"}
+{"prompt":"customer: I intend to return on 05\/12. The connection limit should be one. ->","completion":" Sure. Please wait a moment.\n"}
+{"prompt":"customer: Ok. ->","completion":" There is a Frontier airline with flight number 1029 and price is 100 available with your requirements.\n"}
+{"prompt":"customer: Ok, you can book the ticket. ->","completion":" Your reservation is done.\n"}
+{"prompt":"customer: Thanks for your assistance. ->","completion":" Thank you for opting us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello. How can I assist you at this moment?\n"}
+{"prompt":"customer: I need to travel San Francisco, can you please reserve flight ticket from PHX and SFO? ->","completion":" Sure, I am happy to help you with that. Can I have your travel dates please?\n"}
+{"prompt":"customer: My travelling dates are Mar,16 and Mar,18. ->","completion":" Ok, please let me know the timings of your journey.\n"}
+{"prompt":"customer: My depart time should be in the evening. ->","completion":" Do you want any connections in between your journey?\n"}
+{"prompt":"customer: I need single connection for my travel. ->","completion":" Can I have your good name please?\n"}
+{"prompt":"customer: Myself Larry Phillips. ->","completion":" Ok, please wait a moment.\n"}
+{"prompt":"customer: Sure. ->","completion":" Sorry Larry Phillips, no flight is available  to you on your dates.\n"}
+{"prompt":"customer: Oh! Sad to hear that. Anyway, I will find another alternative to complete my journey. ->","completion":" Thank you for choosing us, have a good day.\n"}
+{"prompt":"customer: Hello, myself Nicole Campbell. ->","completion":" Hello Nicole, how may I help you today?\n"}
+{"prompt":"customer: I am planning to book a flight ticket to IAH from IAH, can you please help me out? ->","completion":" Sure, may I know your dates of journey please?\n"}
+{"prompt":"customer: Sure, my planned travelling dates are 01\/28 and 01\/30. ->","completion":" Please wait for a moment.\n"}
+{"prompt":"customer: Ok, take your time. ->","completion":" There is a flight with the connecting flight of fare 100 and the airline is AA, are you ok with this booking?\n"}
+{"prompt":"customer: Ok, please confirm my reservation. ->","completion":" Ok, the flight with the number 1021 has been reserved.\n"}
+{"prompt":"customer: Thank you for the help. ->","completion":" You are welcome, have a safe flight.\n"}
+{"prompt":"customer: Hello, I am Timothy Martin. ->","completion":" Hello, how can I support you?\n"}
+{"prompt":"customer: I want to alter my existing reservation, my sports event has been postponed. Can you please help me? ->","completion":" Sure, I will amend you.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Please wait for a couple of minutes.\n"}
+{"prompt":"customer: Sure. ->","completion":" Thanks for your time. we are sorry to inform you that, there is no reservation found with your name.\n"}
+{"prompt":"customer: Ok, not an issue. Thank you. ->","completion":" Thank you for using our service.\n"}
+{"prompt":"customer: Hello, I am Brian Hernandez. ->","completion":" Hello, how may I aid you?\n"}
+{"prompt":"customer: I just want to cancel my recent reservation, due to sudden demise of my great grandfather. Can you aid me with that? ->","completion":" Sure, please be on hold let me check the reservation status.\n"}
+{"prompt":"customer: Sure. ->","completion":" Sorry, I found no reservation in your given name.\n"}
+{"prompt":"customer: Ok, not an issue. ->","completion":" Thank you for opting us regarding your cancellation of flight ticket.\n"}
+{"prompt":"customer: Can you please book a flight ticket on dates June 14 and June 16? ->","completion":" Sure, what are your airport codes please let me know?\n"}
+{"prompt":"customer: My airport codes are DEN and SFO. ->","completion":" Do you have any preferences?\n"}
+{"prompt":"customer: I need a ticket in business class. ->","completion":" May I know your name please?\n"}
+{"prompt":"customer: My name is Dennis Brown. ->","completion":" I have found a connecting flight with the fare of 900 provided by Frontier Airlines in business class. Are you ok with this flight?\n"}
+{"prompt":"customer: Yes, please book a ticket. ->","completion":" Your flight ticket has been booked.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Flight number, 1010. Thank you for reaching us.\n"}
+{"prompt":"customer: Due to some financial issues, I would like to cancel my recent reservation. Please help me out. ->","completion":" Sure, I am here to help you.\n"}
+{"prompt":"customer: My name is Virginia Young. ->","completion":" Ok, please wait a minute.\n"}
+{"prompt":"customer: Sure, take your time. ->","completion":" Thank you for waiting, sorry no reservation found on your name.\n"}
+{"prompt":"customer: Ok, no issues. Thank you for your information. ->","completion":" Thank you for reaching us, have a good day.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello. How can I assist you?\n"}
+{"prompt":"customer: I am Emma Young. I am planning to book a ticket from CLT to DFW. Can you please help me out? ->","completion":" Ok, may I know your travelling dates?\n"}
+{"prompt":"customer: I would like to travel on Mar 10 and return back on Mar 12. ->","completion":" Here is a connecting flight with flight number 1029 and fare is 100, providing ticket in economy class. Shall I proceed with booking?\n"}
+{"prompt":"customer: That's fine, please proceed the booking. ->","completion":" Your booking is done in Spirit airlines.\n"}
+{"prompt":"customer: Thank you for your service. ->","completion":" Thank you for choosing us.\n"}
+{"prompt":"customer: Hello, myself Timothy Turner. ->","completion":" Hello, how can I help you?\n"}
+{"prompt":"customer: Could you mind help me in booking a flight ticket from AUS to AUS? ->","completion":" Sure, can you please tell your travelling dates?\n"}
+{"prompt":"customer: Definitely, I would like to fly on 08\/10 and 08\/12. ->","completion":" JetBlue airlines is available with 1 connection and ticket price is just 100. Shall I proceed with it?\n"}
+{"prompt":"customer: That's perfect, please reserve me a seat. ->","completion":" Your reservation is confirmed with flight 1001.\n"}
+{"prompt":"customer: Thank you for your quick service. ->","completion":" Thank you and have a nice day.\n"}
+{"prompt":"customer: I am Steven Campbell, I am looking for a flight under fare of 500 to meet my mother at Orlando. ->","completion":" Sure, kindly mention your travel dates?\n"}
+{"prompt":"customer: I will fly on 08\/04 and return on 08\/06. ->","completion":" Can you please provide me your airport codes?\n"}
+{"prompt":"customer: I will fly from WA-SEA to FL-MCO. ->","completion":" Ok, please wait a moment.\n"}
+{"prompt":"customer: Sure. ->","completion":" There is a flight with your requirement, airline is JetBlue with price 100 and a single connection.\n"}
+{"prompt":"customer: Please proceed with booking. ->","completion":" Shall I proceed with booking?\n"}
+{"prompt":"customer: Sure. ->","completion":" Your booking is done and flight number is 1001.\n"}
+{"prompt":"customer: Thank you for helping me. ->","completion":" Thanks for reaching us, have a good day.\n"}
+{"prompt":"customer: I am Mary Adams. ->","completion":" How can I aid you for the day?\n"}
+{"prompt":"customer: I have to attend a Music Concert at Detroit, could you please help me with booking a flight ticket from IAD to DTW? ->","completion":" Sure, I will help you with that flight ticket booking. May I know your planned trip dates?\n"}
+{"prompt":"customer: I would like to take off on 03\/08 and return on 03\/10. ->","completion":" There is a flight in Hawaiian airline with connection 1 and the fare is 100. Shall I proceed?\n"}
+{"prompt":"customer: Please confirm the booking. ->","completion":" Mary Adams, your booking is confirmed with 1024 flight.\n"}
+{"prompt":"customer: I really appreciate your help, thank you for your service. ->","completion":" Thank you for approaching us, have a safe journey.\n"}
+{"prompt":"customer: Hello, myself Andrew Miller. ->","completion":" Hello, how may I assist you?\n"}
+{"prompt":"customer: I am planning to book a flight ticket to PHL from HOU, could you please search any inexpensive flight? ->","completion":" Sure, may I know your planned travel dates please?\n"}
+{"prompt":"customer: Sure, I would like to fly on 07\/31 and 08\/02. ->","completion":" There is a flight available on your requested dates from AA airlines with 1 connecting flight.Shall I confirm your booking?\n"}
+{"prompt":"customer: Fine, please reserve me a seat. ->","completion":" Your ticket is booked with flight 1005.\n"}
+{"prompt":"customer: Thank you so much for your quick service. ->","completion":" You are welcome.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how may I serve you today?\n"}
+{"prompt":"customer: I am planning to attend music concert at PHX, can you please help me with booking a flight ticket from IAD? ->","completion":" Sure, can you please mention with your dates of journey?\n"}
+{"prompt":"customer: I would like to take off on Jan 12 and return on Jan 14. ->","completion":" May I know your good name please?\n"}
+{"prompt":"customer: My name is Rebecca Thompson. ->","completion":" Are you looking for any other help from my side please?\n"}
+{"prompt":"customer: I am looking for a connecting flight. ->","completion":" Please wait for a mean while.\n"}
+{"prompt":"customer: Sure, take your time. ->","completion":" I found a connecting flight of fare 200 with the Frontier airline, are you fine with this booking?\n"}
+{"prompt":"customer: Yes, please proceed with the booking. ->","completion":" Ok, I have reserved your ticket with the flight number 1001.\n"}
+{"prompt":"customer: I appreciate your help, thank you. ->","completion":" You are welcome, have a safe journey.\n"}
+{"prompt":"customer: On the name of Amanda Carter book a ticket to Los Angels, LAX to go for a vacation holidays. ->","completion":" Sure, may I know your boarding point?\n"}
+{"prompt":"customer: Boarding point is at Houston, HOU. ->","completion":" Could you please share your journey dates?\n"}
+{"prompt":"customer: I intend to travel on the dates of 11\/27 and 11\/29. ->","completion":" Do you need halt in between your journey?\n"}
+{"prompt":"customer: Yes, I need. ->","completion":" Ok, please wait for a moment.\n"}
+{"prompt":"customer: Sure. ->","completion":" Sorry, there are no flights found with your given dates.\n"}
+{"prompt":"customer: No problem. Thank you for your service. ->","completion":" Thank you for opting us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello. How may I assist you today?\n"}
+{"prompt":"customer: Can you help me in booking a flight ticket form LAS to BOS? ->","completion":" Sure, I am gleeful to help you with that. May I know your planned journey dates?\n"}
+{"prompt":"customer: I want to travel on 09\/04, and return on 09\/06. ->","completion":" Do you have any other specification?\n"}
+{"prompt":"customer: I need a break in my journey. ->","completion":" May I know your name please?\n"}
+{"prompt":"customer: I am Joshua Scott. ->","completion":" Sorry to say that, there are no flights found on this route as per your details.\n"}
+{"prompt":"customer: Ok, no issues. ->","completion":" Thank you for reaching us, have a great day.\n"}
+{"prompt":"customer: Hi. I am Angela Nelson. ->","completion":" Hello, what kind of assistance are you looking for?\n"}
+{"prompt":"customer: Usually I prefer a connecting flight, but unfortunately my friend has already reserved my ticket with a direct flight. So, I want to change it.Can you help me? ->","completion":" Sure, please wait.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Sorry, we couldn't find any reservation on your name to change.\n"}
+{"prompt":"customer: No issue. Thank you for the information. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello, what can I do for you today?\n"}
+{"prompt":"customer:  I made a reservation earlier this week to give a seminar, but my seminar has been postponed. Can you please help me in changing my reservation? ->","completion":" Sure, let me know your name to check for your reservation status?\n"}
+{"prompt":"customer: Cynthia Harris here. ->","completion":" Please stand by.\n"}
+{"prompt":"customer: Ok. ->","completion":" Sorry, no reservation found on your name in our portal to change it.\n"}
+{"prompt":"customer: No issue, Thank you for the information. ->","completion":" Thank you for contacting us.\n"}
+{"prompt":"customer: Hi, Andrew King here. ->","completion":" Hello. How can I aid you today?\n"}
+{"prompt":"customer: I want to travel with my friends, can you please help me to book a ticket from DCA to DFW? ->","completion":" Sure, I will help you Andrew King. Will you please inform your travel dates for booking flight ticket?\n"}
+{"prompt":"customer: Sure, my dates of planning is from 04\/14 to 04\/16. ->","completion":" Ok, please wait a moment, I will check flight availability.\n"}
+{"prompt":"customer: Sure, please make sure that connection is 1. ->","completion":" Sure. There is a flight ticket available as per your requested details, airline is Spirit and flight number is 1018.\n"}
+{"prompt":"customer: Please proceed with this booking. ->","completion":" Ok. Your flight ticket is booked successfully.\n"}
+{"prompt":"customer: Thank you for your help in booking a ticket. ->","completion":" Thank you for reaching us, have a good day Andrew King.\n"}
+{"prompt":"customer: Hello. Scott Davis here. ->","completion":" Hello, how may I aid you?\n"}
+{"prompt":"customer: I want to go Denver for my business purpose. Please check for the flight from MCO to DEN. ->","completion":" Sure, please provide the travel dates?\n"}
+{"prompt":"customer: My travel dates are from 05\/19 to 05\/21. ->","completion":" I found a flight with price 100 and one connection.\n"}
+{"prompt":"customer: That's great. Please go ahead. ->","completion":" Ok. Your flight ticket has been confirmed now.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello. How can I aid you today?\n"}
+{"prompt":"customer: I have to meet my project manager at New York, can you please help me to book my flight ticket from DCA to LGA? ->","completion":" Sure, I am here to help you. May I know your travel dates please?\n"}
+{"prompt":"customer: Sure, I will depart on July 20 and return on July 22. ->","completion":" Ok, hold on for a moment. Let me check the best flight for you.\n"}
+{"prompt":"customer: Sure. ->","completion":" I found a flight for you with Hawaiian airline and it costs you 100. Shall I proceed?\n"}
+{"prompt":"customer: Yes, you can proceed for booking the ticket. ->","completion":" On whose name you would like to book this ticket?\n"}
+{"prompt":"customer: Book the ticket in the name of Kevin Davis. ->","completion":" Your ticket has been booked with 1006 flight number Kevin.\n"}
+{"prompt":"customer: Thank you very much for your help. ->","completion":" Welcome, thank you for choosing us. Have a safe flight.\n"}
+{"prompt":"customer: Jessica Hernandez here. ->","completion":" How can I aid you?\n"}
+{"prompt":"customer: Do you have any flight from LAS to attend a business meeting in SFO? ->","completion":" Sure, may I know your journey dates please?\n"}
+{"prompt":"customer: My journey dates are 05\/25 and 05\/27. ->","completion":" Wait a moment please.\n"}
+{"prompt":"customer: Sure, take your own time. ->","completion":" Spirit airlines is available in your route with the ticket fare of 100, shall I proceed with the booking?\n"}
+{"prompt":"customer: You can proceed. ->","completion":" Your ticket is booked with the flight-1002.\n"}
+{"prompt":"customer: Thanks for your help and valuable information. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how may I support you today?\n"}
+{"prompt":"customer: I am planning to attend a Seminar at Denver,can you help me with booking? ->","completion":" Sure, I will help you with booking. Please share me source and destination airport codes?\n"}
+{"prompt":"customer: My airport codes are  IAD to DEN. ->","completion":" Please mention when you planned to travel?\n"}
+{"prompt":"customer: My travel dates are June 24 and June 26. ->","completion":" Do you want a connecting flight for your journey?\n"}
+{"prompt":"customer: Yes, I need a connecting flight. ->","completion":" Is there any other preferences related to booking?\n"}
+{"prompt":"customer: No. ->","completion":" May I know your good name?\n"}
+{"prompt":"customer: I am Helen Green. ->","completion":" Thank you for the details, sorry there is no flight available on your given journey data.\n"}
+{"prompt":"customer: Ok, no problem. Thank you for your response. ->","completion":" Thank you visiting us, we hope see you again.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how can I amend you?\n"}
+{"prompt":"customer: I am Andrew Lee, would like to change an existing reservation because of my movie shoot was postponed. Will you check with reservation to change? ->","completion":" Sure. Please wait for a  while.\n"}
+{"prompt":"customer: Sure. ->","completion":" Thanks for waiting, there is no reservation found on your name.\n"}
+{"prompt":"customer: Ok, Thanks for the quick response. ->","completion":" Thank you.\n"}
+{"prompt":"customer: Due to some entrepreneurship meeting, I am going to change my existing reservation. Can you please help me in changing the reservation? ->","completion":" Sure. I am gleeful to help you with that. Can you please share your name?\n"}
+{"prompt":"customer: I am Jessica Hill. ->","completion":" Thank you for waiting. Jessica Hill, there is no active reservation found under your name to do changes in that.\n"}
+{"prompt":"customer: No problem, thank you for the information. ->","completion":" Thank you for reaching us, have a great day,.\n"}
+{"prompt":"customer: Hello, Katherine Hall here. ->","completion":" Hello Hall, how can I assist you?\n"}
+{"prompt":"customer: I would like to celebrate this Christmas with my family at New York. Can you help me in booking a ticket from MCO to LGA? ->","completion":" Sure, can you please tell me your travel dates?\n"}
+{"prompt":"customer: My planned journey dates are 12\/25 and 12\/27. ->","completion":" Ok, please wait for a while.\n"}
+{"prompt":"customer: Ok, take your time. ->","completion":" There is a flight available with Delta airlines and the ticket price is 100 only. Shall I book the ticket for you?\n"}
+{"prompt":"customer: Please proceed for booking the ticket. ->","completion":" Hall, your ticket is booked and your flight number is 1003.\n"}
+{"prompt":"customer: Thank you for your service. ->","completion":" You are most welcome.\n"}
+{"prompt":"customer: I would like to spend my weekend time at Las Vegas, please help me in booking a ticket from LGA to LAS. ->","completion":" Sure, I will help you in booking. Can you please share your planning dates of journey?\n"}
+{"prompt":"customer: My planned journey dates are 04\/14 and 04\/16. ->","completion":" Please wait a moment.\n"}
+{"prompt":"customer: Sure, take your time. ->","completion":" Flight 1012 i JetBlue airlines is available for you with 1 connection and price is 200. Can I proceed?\n"}
+{"prompt":"customer: Ok, please proceed for booking. ->","completion":" To proceed further, can you please tell me your name?\n"}
+{"prompt":"customer: Sure, my name is Debra Wright. ->","completion":" Your booking is confirmed.\n"}
+{"prompt":"customer: Thank you for your assistance. ->","completion":" Welcome, have a safe flight. Thank you for choosing us.\n"}
+{"prompt":"customer: I would like to visit the Tiny Gardens at Denver. Can you please help me in booking a ticket? ->","completion":" Sure, may I know your name please?\n"}
+{"prompt":"customer: My name is Anthony Collins. ->","completion":" Anthony, can you please help me with your journey details?\n"}
+{"prompt":"customer: Well, I am planning to travel on dates 11\/12 and 11\/14 from AUS to DEN. ->","completion":" Just hold on for few seconds, I will get you back with the flight details.\n"}
+{"prompt":"customer: Sure. ->","completion":" Sorry Anthony, there is no flight available on those dates.\n"}
+{"prompt":"customer: That's fine, not a big deal. Thank you for the information. ->","completion":" Thank you for approaching us.\n"}
+{"prompt":"customer: My name is Shirley Phillips. ->","completion":" How can I help you today?\n"}
+{"prompt":"customer: Owing an emergency, I want to cancel my reservation. Can you help me for that? ->","completion":" Sure, I am here to help you with that.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Sorry, no reservation found on your name to cancel your reservation.\n"}
+{"prompt":"customer: That's ok, thank you for checking. ->","completion":" Thank you for reaching us, have a nice day.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello. In which way I can help you at this moment?\n"}
+{"prompt":"customer: I need to buy a plane ticket from PHL to OAK. Please help me in that. ->","completion":" Sure, I will help you with that. Could you please mention your preferable travel dates?\n"}
+{"prompt":"customer: My trip dates are from Aug, 20 to Aug, 22. ->","completion":" May I know your name for further process?\n"}
+{"prompt":"customer: Anna Robinson. ->","completion":" Do you prefer either an economy or business class?\n"}
+{"prompt":"customer: I am comfortable with any class. ->","completion":" Do you need any specific depart and arrival time for this trip?\n"}
+{"prompt":"customer: No. ->","completion":" Do you have any another specifications?\n"}
+{"prompt":"customer: I need a single connecting flight. ->","completion":" Ok, please hold on a moment.\n"}
+{"prompt":"customer: Ok. ->","completion":" Spirit airline flight available with connection limit 1 and fare is 100, shall I confirm this economy class flight?\n"}
+{"prompt":"customer: Please proceed. ->","completion":" Your flight ticket is booked successfully, flight number is 1016.\n"}
+{"prompt":"customer: Thank you for booking. ->","completion":" You are welcome Anna Robinson.\n"}
+{"prompt":"customer: I'm Edward Thompson. ->","completion":" How may I help you today?\n"}
+{"prompt":"customer: I'm planning to go DCA, can you help me in ticket booking from LGA? ->","completion":" I am happy help you with that.\n"}
+{"prompt":"customer: My departure and return dates are 03\/11 and 03\/13. ->","completion":" Please give me a minute, I will get back with your details.\n"}
+{"prompt":"customer: Sure. ->","completion":" I found a ticket for you with price 100, flight number is 1011 and connection is 1. Is it ok for you?\n"}
+{"prompt":"customer: Yes, please go for booking. ->","completion":" I confirmed your ticket successfully with Spirit airline.\n"}
+{"prompt":"customer: Thank you so much for booking. ->","completion":" Thank you for reaching us, have a great day?\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello. How may I assist you at this moment?\n"}
+{"prompt":"customer: Can you please help me in booking a flight ticket from EWR to DFW? ->","completion":" Sure, I am happy to help you with that. May I know your travelling dates, please?\n"}
+{"prompt":"customer: Sure, my travel dates are from Aug 26 to Aug 28. ->","completion":" Do you have any connection limit for your flight?\n"}
+{"prompt":"customer: I would prefer connecting flight. ->","completion":" May I know your other requirements for your journey?\n"}
+{"prompt":"customer: No more specifications. ->","completion":" Let me know your name to proceed further for documentation purpose.\n"}
+{"prompt":"customer: Myself Donna Jackson. ->","completion":" Delta airlines is providing you the connecting flight in economy class, shall I reserve it?\n"}
+{"prompt":"customer: Ok, please reserve it. ->","completion":" Your ticket has been reserved with flight 1003.\n"}
+{"prompt":"customer: Thank you for booking. ->","completion":" Thank you for choosing us.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello, how may I aid you today from my end?\n"}
+{"prompt":"customer: I want to cancel my reservation as my mother is unwell, can you please do that for me? ->","completion":" Sure, I am here to help you out. Please allow me a moment to check whether any reservation found on your name or not to cancel it?\n"}
+{"prompt":"customer: Sure. ->","completion":" May I know your name?\n"}
+{"prompt":"customer: My name is Raymond Evans. ->","completion":" Sorry, there is no active  reservation on your name.\n"}
+{"prompt":"customer: I am Cynthia Thomas, want to travel from EWR to PHL. Will you please help me in booking my ticket? ->","completion":" Sure, I'll help you. Please provide your dates.\n"}
+{"prompt":"customer: My dates will be from 07\/15 to 07\/17. ->","completion":" I got a flight for you with 1 connection and price is 300.\n"}
+{"prompt":"customer: That's great, please proceed with the booking. Can you give me a 100 rupees discount? ->","completion":" Sorry, in our agency we don't give any discount.\n"}
+{"prompt":"customer: It's ok, no issue. Thank you for your help. ->","completion":" Most welcome.\n"}
+{"prompt":"customer: Hi, I am Samantha Campbell. ->","completion":" Hello, how can I support you now?\n"}
+{"prompt":"customer: Please book me a direct flight to San Francisco to meet my uncle. ->","completion":" Sure, may I know your travelling dates?\n"}
+{"prompt":"customer: I want to fly on 11\/14 and will return on 11\/16. ->","completion":" Where are you travelling from?\n"}
+{"prompt":"customer: Its from FL-MCO to CA-SFO. ->","completion":" Is there any price limit for you?\n"}
+{"prompt":"customer: I can pay up to 200. ->","completion":" Ok, please wait a moment.\n"}
+{"prompt":"customer: Ok. ->","completion":" Sorry there is no direct f;light found on your journey dates.\n"}
+{"prompt":"customer: It's o, thank you. ->","completion":" Thanks for choosing us and have a great day.\n"}
+{"prompt":"customer: Hello, I am Rachel Davis. ->","completion":" Hello, how can I help you?\n"}
+{"prompt":"customer: I am planning to go for Brooklyn walking tour with my friends on 11\/14. Can you please book a flight ticket for me? ->","completion":" Sure, may I know when you want to travel?\n"}
+{"prompt":"customer: I intend to return from my journey on 11\/16. ->","completion":" Sure, can I know your airport codes please?\n"}
+{"prompt":"customer: I would like to board from Boston, BOS. ->","completion":" Do you need any halt in between your journey?\n"}
+{"prompt":"customer: Yes, there should be a lay by. ->","completion":" Can I know your destination airport code please?\n"}
+{"prompt":"customer: New York, EWR is my landing point. ->","completion":" Wait a minute please.\n"}
+{"prompt":"customer: Sure. ->","completion":" Thank you for waiting, we found a flight with number 1014 and airline AA at a price of 100 with 1 connection. Shall I proceed?\n"}
+{"prompt":"customer: Yes, you can proceed. ->","completion":" Sure, your booking is done.\n"}
+{"prompt":"customer: Thank you for your help. ->","completion":" Thank you for reaching us, have  a nice day.\n"}
+{"prompt":"customer: I need to cancel my reservation. Do you provide cancellation services? ->","completion":" Sure, I am happy to help you. Could I have your name please?\n"}
+{"prompt":"customer: My name is George Perez. ->","completion":" Sorry, there is no reservation matching with your name in our portal to cancel further.\n"}
+{"prompt":"customer: It's ok, no issues. Thank you for the information. ->","completion":" Thank you for consulting us, have a great day.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, How can I help you?\n"}
+{"prompt":"customer: My name is Benjamin Miller, I want to book a flight to visit my uncle's house with my family. Can you book a connecting flight for me? ->","completion":" Sure, Please help me with your travel dates.\n"}
+{"prompt":"customer: I will fly on 05\/07 and return on 05\/09. ->","completion":" May I know the journey codes?\n"}
+{"prompt":"customer: My source airport is CO-DEN and my destination is NY-LGA. ->","completion":" Please wait a minute.\n"}
+{"prompt":"customer: Sure. ->","completion":" Sorry, No flights found with your preferable dates.\n"}
+{"prompt":"customer: Thank you for the information. ->","completion":" Thank you for opting us.\n"}
+{"prompt":"customer: I want to cancel my recent reservation due to sudden cancellation of my trip. Can you help me? ->","completion":" May I know your name please?\n"}
+{"prompt":"customer: Eric Carter here. ->","completion":" I am sorry to say that there is no reservation found under your name.\n"}
+{"prompt":"customer: That's Fine, Thank you. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: I am Stephanie Carter. I want to book a flight ticket to visit Oakland Zoo at Oakland, could you help me in booking a flight ticket? ->","completion":" Sure, may I know your journey dates?\n"}
+{"prompt":"customer: I would like to fly on 09\/09 and return on 09\/11. ->","completion":" Kindly, mention your price limit.\n"}
+{"prompt":"customer: I can afford up to 500. ->","completion":" May I know your airport codes?\n"}
+{"prompt":"customer: My source is Washington, DC - IAD and destination code is CA - OAK. ->","completion":" Thank you for sharing your journey details with patience, please hold on.\n"}
+{"prompt":"customer: Sure, I need a direct flight. ->","completion":" No flights found on your journey dates.\n"}
+{"prompt":"customer: Not an issue. Thank you. ->","completion":" Thank you, have a nice day.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how may I support you?\n"}
+{"prompt":"customer: I want to attend auto show ,can you please help me in booking? ->","completion":" Sure, can you please provide me your travelling details?\n"}
+{"prompt":"customer: My airport codes are from ORD to PHX. My travelling dates are from 07\/04 to 07\/06. ->","completion":" Ok, please wait for a while.\n"}
+{"prompt":"customer: Ok. ->","completion":" To proceed further, may I know your name?\n"}
+{"prompt":"customer: I am Jeffrey Lee. ->","completion":" Thank you for being patience. Unfortunately, there were no flights on your preferred dates.\n"}
+{"prompt":"customer: Ok,No issues. ->","completion":" Thank you for reaching us, have a good day.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello. How may I assist you now?\n"}
+{"prompt":"customer: I am looking for a flight from DTW to CLT, can you please help me in booking? ->","completion":" Sure, I am glad to help you with that. Can you please provide your preferable dates of travelling?\n"}
+{"prompt":"customer: My travelling dates are Aug 02 and Aug 04. ->","completion":" Do you have any connection limit?\n"}
+{"prompt":"customer: I need a connecting flight. ->","completion":" Any more specifications do you have?\n"}
+{"prompt":"customer: Sorry, I need a direct flight and I want to depart in afternoon. ->","completion":" On whose name I have to book the flight ticket?\n"}
+{"prompt":"customer: My name is Deborah Evans. ->","completion":" I have found a direct flight having with the fare of 200 provided by American Airlines in economy class. Are you ok with this flight?\n"}
+{"prompt":"customer: Please proceed. ->","completion":" Ok, your ticket has been confirmed in flight number 1001.\n"}
+{"prompt":"customer: Thank you for booking. ->","completion":" Thank you for reaching us, have a great journey.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello. Could you please let me know what help do you need?\n"}
+{"prompt":"customer: I want to fly from DCA to JFK. Can you check the flight availability on that route? ->","completion":" Sure, I am happy to help you with that. Can I know your travel dates?\n"}
+{"prompt":"customer: Sure, my travel dates are 07\/27 and 07\/29. ->","completion":" Ok, please share your preference about the connection limit.\n"}
+{"prompt":"customer: I want a flight with single connection. ->","completion":" Ok, please tell me your other specifications.\n"}
+{"prompt":"customer: No more, thank you. ->","completion":" On which name do you want me to reserve the ticket?\n"}
+{"prompt":"customer: Sure, Samuel Johnson  name only. ->","completion":" The Southwest airlines is providing the service in this route which is having a single connecting flight with the ticket fare of 100. Shall I reserve a flight ticket in an economy class?\n"}
+{"prompt":"customer: Yes, you can proceed with that booking. ->","completion":" I have booked your ticket with the flight-1009 and this flight departs at 18:00 hours and returns at 09:00 hours. Have a nice journey.\n"}
+{"prompt":"customer: Thank you for the booking. ->","completion":" Thank you for choosing our agency.\n"}
+{"prompt":"customer: I want to cancel my reservation due to sudden change in weather condition, can you assist me? ->","completion":" Sure, will you please let me know your name?\n"}
+{"prompt":"customer: Jack Parker. ->","completion":" Ok, please wait for a while.\n"}
+{"prompt":"customer: Sure. ->","completion":" Thanks for waiting, there is no reservation found active under your name.\n"}
+{"prompt":"customer: No problem, thank you for searching. ->","completion":" Thank you for choosing us.\n"}
+{"prompt":"customer: Hi, I am Linda Mitchell. ->","completion":" Hello, how can I help you today?\n"}
+{"prompt":"customer: Will you please reserve a seat to Las Vegas? ->","completion":" Sure, I am glad to help you.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Help me with your airport codes?\n"}
+{"prompt":"customer: Origin airport code: OAK and destination is LAS. ->","completion":" Kindly mention your trip dates?\n"}
+{"prompt":"customer: I have to attend the wedding anniversary of my friend, so please check flights on 04\/09 and return flight on 04\/11. ->","completion":" There is a connecting flight 1028 in Hawaiian airline with price 200. Shall I reserve it?\n"}
+{"prompt":"customer: Do not proceed, as I choose to go with a direct flight. ->","completion":" Ok.\n"}
+{"prompt":"customer: Thank you for the quick response. ->","completion":" Thank you for approaching us.\n"}
+{"prompt":"customer: Owing to an emergency I have request you to cancel my reservation. Can you please help me out with that? ->","completion":" Sure, let me know your name to check your reservation details.\n"}
+{"prompt":"customer: Ok, I have reserved it on the name of Carol Jackson. ->","completion":" Thank you. Please be online for a while. I will check your reservation status and get back to you.\n"}
+{"prompt":"customer: Sure, take your time. ->","completion":" I'm happy to inform you that I have found a active reservation on your name and I have cancelled it.\n"}
+{"prompt":"customer: Thank you for your kind help. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: I am Cynthia Harris. I want to book a ticket from LAX to SEA, can you help me? ->","completion":" Sure, may I know your preferred dates of travel?\n"}
+{"prompt":"customer: My travel dates are Feb 25 and 27. ->","completion":" Do you have any specifications?\n"}
+{"prompt":"customer: I want to travel in economy class only. ->","completion":" Ok, please wait a minute.\n"}
+{"prompt":"customer: I want to return in the morning. ->","completion":" Sorry to say that there were no flights found on your route.\n"}
+{"prompt":"customer: No problem, thanks for checking. ->","completion":" Thank you.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello. How can I aid you today?\n"}
+{"prompt":"customer: I need to book a flight ticket from CLT to LAS to enjoy religious festivals. ->","completion":" Sure. Can you please mention your preferable travel dates?\n"}
+{"prompt":"customer: Sure, my journey dates are Nov 23 and Nov 25. ->","completion":" May I know your name for further process?\n"}
+{"prompt":"customer: Sure, Carolyn Walker here. ->","completion":" Do you have any another specifications?\n"}
+{"prompt":"customer: I need a direct flight. ->","completion":" Ok, please wait a moment.\n"}
+{"prompt":"customer: Sure. ->","completion":" Sorry, no flights are available in this route as per your requested dates.\n"}
+{"prompt":"customer: Ok, no issues. Thank you. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hello, I am Anthony Smith. ->","completion":" Hello, what can I do for you?\n"}
+{"prompt":"customer: Can you help me to change an existing reservation due to my health issues? ->","completion":" Sure, give me sometime to check and get back to you.\n"}
+{"prompt":"customer: Sure. ->","completion":" Unfortunately we didn't found any reservation according to your name.\n"}
+{"prompt":"customer: Ok, not an issue. Thank you for your information. ->","completion":" Thank you for choosing us.\n"}
+{"prompt":"customer: I am Justin Lee. Can you help booking a flight ticket from LGA to ATL? ->","completion":" Sure, may I know your planned travel dates please?\n"}
+{"prompt":"customer: I will start on 01\/03 and return on 01\/05. ->","completion":" Would you like to travel in a connecting flight or a direct flight?\n"}
+{"prompt":"customer: I am comfortable with any flight. ->","completion":" Do you have any other specifications?\n"}
+{"prompt":"customer: I need to depart in the morning time. ->","completion":" Sorry, there is no flight available on your requested dates.\n"}
+{"prompt":"customer: No problem, thank you for the information. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how can I serve you?\n"}
+{"prompt":"customer: I am planning to book a ticket from ORD to OAK. Can you please help me out? ->","completion":" Sure, may I know your planned travel dates?\n"}
+{"prompt":"customer: I am planning to travel on Nov 14 and return back on Nov 16. ->","completion":" Do you have any class preference?\n"}
+{"prompt":"customer: Yes, I am looking for a economy class. ->","completion":" May I know your connection limit?\n"}
+{"prompt":"customer: I am looking for a connecting flight. ->","completion":" Is there any other preference do you have?\n"}
+{"prompt":"customer: No. ->","completion":" May I know your name please?\n"}
+{"prompt":"customer: I am Susan Perez. ->","completion":" We have a direct flight from American airlines, number 1006 and the price is 100. Shall I proceed with it?\n"}
+{"prompt":"customer: That's fine, please proceed the booking. ->","completion":" Your ticket has been confirmed in economy class.\n"}
+{"prompt":"customer: Hi. Nicole Robinson here. ->","completion":" Hello. How may I assess you?\n"}
+{"prompt":"customer: I am Nicole Robinson need to visit Philadelphia to discuss security issues with the government officials there. So can you book a flight ticket for me? ->","completion":" Sure, I can help you with the flight ticket booking. Can you please provide me your origin and destination airport codes?\n"}
+{"prompt":"customer: Sure. My airport codes for boarding the flight are JFK to PHL. ->","completion":" Ok, on which dates you are willing to travel?\n"}
+{"prompt":"customer: My preferable dates for travel are 04\/20 to 04\/22. The price limit is less than 500. ->","completion":" Ok, just a minute. I will check the flight for you and let you know the flight details.\n"}
+{"prompt":"customer: Sure. ->","completion":" The Hawaiian airlines is providing the service in this route which is having a connection limit 1 and the price is 100 only. Can I book your ticket with this flight?\n"}
+{"prompt":"customer: I am happy with the airlines. You can book it. ->","completion":" Ok, I have booked your ticket with the above mentioned airlines and the flight number is 1029.\n"}
+{"prompt":"customer: Thank you. ->","completion":" You are most welcome. Thank you for reaching us. Have a safe flight.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello, how may I assist you?\n"}
+{"prompt":"customer: Nancy Phillips here. Can you please help me in booking a ticket from LGA to BOS? ->","completion":" Sure, I am here to help you. May I know your travel dates please?\n"}
+{"prompt":"customer: My preferable dates to do journey are 08\/22 and 08\/24. ->","completion":" Ok, hold on for a moment. Let me check the best flight for you.\n"}
+{"prompt":"customer: Sure, carry on. ->","completion":" I found a flight for you with UA airline and it costs you 300. Shall I proceed to cancel?\n"}
+{"prompt":"customer: That;s fine for me, please proceed for booking. ->","completion":" Shall I proceed to book? Your ticket has been booked with 1005 flight number.\n"}
+{"prompt":"customer: Thank you so much. ->","completion":" Welcome, thank you for choosing us. Have a safe flight.\n"}
+{"prompt":"customer: Hello, I am Christopher Jones. ->","completion":" Hello, how may I assist you?\n"}
+{"prompt":"customer: Can you book a ticket from SEA to MCO? ->","completion":" Sure, may I know your journey dates please?\n"}
+{"prompt":"customer: I am planning to go by 07\/01 and return back on 07\/03. ->","completion":" Ok, hold on for a moment. Let me check the best flight for you.\n"}
+{"prompt":"customer: Make sure that connection limit is 1. ->","completion":" I found a flight for you with JetBlue airline and it costs you 100. Shall I proceed?\n"}
+{"prompt":"customer: Yes, you can go ahead. ->","completion":" Your ticket has been booked with 1007 flight number.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Welcome, thank you for choosing us.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello. How can I help you now?\n"}
+{"prompt":"customer: Can you please change my reservation which is in the name Raymond King? ->","completion":" Sure, please wait for a while.\n"}
+{"prompt":"customer: Ok, fine. Thank you for checking. ->","completion":" Thank you for approaching us.\n"}
+{"prompt":"customer: Hi,. ->","completion":" Hello. How can I assist you?\n"}
+{"prompt":"customer: I am planning to celebrate and attend my mother's birthday in Seattle, from CA - SFO. Can you book a flight ticket to me? ->","completion":" Ya sure. Please share your traveling details.\n"}
+{"prompt":"customer: I need a connecting flight. My destination code is to WA - SEA. ->","completion":" Your traveling dates?\n"}
+{"prompt":"customer: My travelling dates are from 03\/10 to 03\/12. ->","completion":" Give me a moment.\n"}
+{"prompt":"customer: Ok. ->","completion":" We found a flight with your requirements. Airline:Southwest. Flight number:1013. Price:200. And with a single connection.\n"}
+{"prompt":"customer: You may proceed with the booking. I am Christopher King. ->","completion":" OK. Your flight ticket is booked.\n"}
+{"prompt":"customer: Thanks for the help. ->","completion":" Thank you for reaching ours.\n"}
+{"prompt":"customer: Nancy Thompson here. ->","completion":" How can I assist you at this moment?\n"}
+{"prompt":"customer: I am a social activist, I have to host a campaign for orphans. Could you book my ticket from ORD to AUS? ->","completion":" Sure, can you please share your travel dates to proceed further?\n"}
+{"prompt":"customer: My itinerary dates are 09\/16 and 09\/18. ->","completion":" Give me a moment please.\n"}
+{"prompt":"customer: Sure. ->","completion":" Southwest airlines is available with a ticket fare of 100 and 1 connection limit, shall I proceed to book your ticket with this flight?\n"}
+{"prompt":"customer: Please proceed. ->","completion":" Nancy Thompson, your ticket is booked with flight number 1019.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Thank you for approaching us, have a safe journey.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello, how can I aid you?\n"}
+{"prompt":"customer: Could you please change my existing reservation due to postpone of my exams? ->","completion":" Sure, may I know your name to proceed further?\n"}
+{"prompt":"customer: My name is Donna Adams. ->","completion":" We regret to inform you that there is no active reservation found on your name to change.\n"}
+{"prompt":"customer: Not a problem, thank you. ->","completion":" Thank you for contacting us.\n"}
+{"prompt":"customer: Can you aid me in booking a flight ticket from PHX to OAK? ->","completion":" Sure, I will help you. Can you please share me your travelling dates?\n"}
+{"prompt":"customer: Sure, I would like to go on Feb 09th and return back on Feb 11th. ->","completion":" Ok, please share me your name.\n"}
+{"prompt":"customer: Myself Nicole Collins. ->","completion":" Ok, do you have any connection limit?\n"}
+{"prompt":"customer: Make sure it is a single connecting flight. ->","completion":" As per your request, I found a flight for you with single connection and ticket fare is 200 in economy class. Shall I proceed for booking?\n"}
+{"prompt":"customer: Ok, please proceed for further. ->","completion":" Your ticket is booked with flight number 1007 and airline is JetBlue.\n"}
+{"prompt":"customer: Thank you for booking. ->","completion":" Welcome, have a safe flight.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, How best can I support you now?\n"}
+{"prompt":"customer: I would like to meet my uncle at Chicago, please help me in booking a ticket from ORD to ORD. ->","completion":" Sure, I would be happy to help you. What is your expected budget for your ticket?\n"}
+{"prompt":"customer: Please check the price below 500. ->","completion":" Ok, On what dates you have planned to travel & return?\n"}
+{"prompt":"customer: My journey dates are 02\/08 and 02\/10. ->","completion":" Thank you for your time, we have found a Frontier airline, flight number-1020, connections-1 and ticket-100. Shall I make a move?\n"}
+{"prompt":"customer: Ok, please proceed with my booking. ->","completion":" To proceed further, we need your name?\n"}
+{"prompt":"customer: Sure, my name is Raymond Brown. ->","completion":" Ok, Your ticket has reserved.\n"}
+{"prompt":"customer: Thank you for your assistance. ->","completion":" Thanks for making us to serve you.\n"}
+{"prompt":"customer: I am Kathleen Phillips here. ->","completion":" How may I assist you?\n"}
+{"prompt":"customer: I want to reserve my ticket from CLT to MSP, can you please help me in this? ->","completion":" Sure, I will help you out with that. May I know your travel dates to proceed further?\n"}
+{"prompt":"customer: Ok, my preferable dates of journey are from 09\/07 to 09\/09. ->","completion":" Ok, please be on hold.\n"}
+{"prompt":"customer: Sure, I will wait. ->","completion":" There is connecting flight from Hawaiian airlines with a fare of 100, shall I proceed with booking?\n"}
+{"prompt":"customer: Ok, please go ahead with this ticket booking. ->","completion":" Ok, your ticket is confirmed with the flight-1024.\n"}
+{"prompt":"customer: Thank you for your help in booking my ticket. ->","completion":" Thank you reaching us.\n"}
+{"prompt":"customer: Can you please book me a flight ticket from LAX to SEA? ->","completion":" Yes, can you tell me your dates of travel?\n"}
+{"prompt":"customer: My dates of travel are from July 15th to July 17th. ->","completion":" Do you have any preferences?\n"}
+{"prompt":"customer: Yes, I want a single stopover in between my journey. ->","completion":" I have found an economy class ticket with a price of 100 and 1 connection.\n"}
+{"prompt":"customer: Please proceed. ->","completion":" Can I know your name for booking?\n"}
+{"prompt":"customer: I am Patrick Walker. ->","completion":" Your ticket has been booked.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Thank you for contacting us.\n"}
+{"prompt":"customer: I am Nicole Edwards. ->","completion":" How may I aid you?\n"}
+{"prompt":"customer: I am planning to go for IAD from SEA, can you please help me out? ->","completion":" Sure, I am here to help you. Could you please share your travelling dates?\n"}
+{"prompt":"customer: My travelling dates are 06\/13 and 06\/15. ->","completion":" Do you have any requirements?\n"}
+{"prompt":"customer: I need single connection flight. ->","completion":" There is a connecting flight-1009 of JetBlue airlines, shall I proceed?\n"}
+{"prompt":"customer: Ok, please confirm my flight ticket. ->","completion":" Ok, your booking is done.\n"}
+{"prompt":"customer: Thank you. ->","completion":" You are welcome.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, how can I aid you for today?\n"}
+{"prompt":"customer: Owing to emergency, I need to cancel my recent reservation. Please help me with that. ->","completion":" I am here to help you about that. Can you please provide your name for checking the reservation status?\n"}
+{"prompt":"customer: I am Rebecca Miller. ->","completion":" I have found reservation with your name and as per your interest I have cancelled it.\n"}
+{"prompt":"customer: Thank you for your help. ->","completion":" You are welcome, thank you for choosing our service.\n"}
+{"prompt":"customer: HI. ->","completion":" Hello. What help that I can assist you?\n"}
+{"prompt":"customer: I want to change an existing  reservation due to sudden change in my trip. Can you help me? ->","completion":" Sure, I can help you and can you please mention your name for checking purpose?\n"}
+{"prompt":"customer: Paul Collins. ->","completion":" Please wait for a moment.\n"}
+{"prompt":"customer: Ok. ->","completion":" Thank you for waiting, I have checked in reservation list to change your ticket but could not find any reservation with your name.\n"}
+{"prompt":"customer: No issue. Thank you. ->","completion":" Thank you for reaching us, have a nice day.\n"}
+{"prompt":"customer: I want to cancel my recent reservation due to sudden cancellation of my trip. Can you help me? ->","completion":" May I know your name please to check the status of your reservation?\n"}
+{"prompt":"customer: Cynthia Miller here. ->","completion":" Thank you. Please stay online for a while, I will check your reservation status and let you know.\n"}
+{"prompt":"customer: Ok. ->","completion":" I have successfully cancelled your reservation and the amount will be refunded to you within 2 business days.\n"}
+{"prompt":"customer: That's Fine, Thank you for the information. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hi. I am Susan Moore. ->","completion":" Hello, how may I render you today?\n"}
+{"prompt":"customer:  I want to book a connecting flight ticket to meet my grandparents at Detroit. Can you help me to book a flight ticket? ->","completion":" Sure, we are here to help you. Can you please provide your take off and landing airport codes?\n"}
+{"prompt":"customer: Yes, my take off airport code is Boston, MA-BOS and landing point is MI-DTW. ->","completion":" On which dates would you like me to book a flight ticket for you?\n"}
+{"prompt":"customer: I want a ticket on dates 07\/27 and 07\/29. ->","completion":" Ok, please wait for a minute.\n"}
+{"prompt":"customer: Ok. ->","completion":" Sorry to inform you, currently no flights are running at that locations due to abnormal weather conditions.\n"}
+{"prompt":"customer: That's ok. Thank you for the information. ->","completion":" Thank you for opting us.\n"}
+{"prompt":"customer: Due to some issues, I am willing to change my existing reservation. Can you please help me for this? ->","completion":" Sure, can I know your name please?\n"}
+{"prompt":"customer: I am Rebecca Lee. ->","completion":" Ok, wait a moment please.\n"}
+{"prompt":"customer: Oh! It may not be booked properly due to some technical issues while booking. Thank you for checking. ->","completion":" Thank you for approaching us.\n"}
+{"prompt":"customer: Joseph Garcia here. I would like to spend some more days with my family, so please help me in changing my existing reservation. ->","completion":" Sure, I am here to help you out. Please allow me a moment.\n"}
+{"prompt":"customer: Ok. ->","completion":" Sorry  Joseph Garcia, there is no active reservation on your name in our database.\n"}
+{"prompt":"customer: I am Dorothy Turner, can you help me to book a flight from EWR to CLT? ->","completion":" Sure, can you please provide your travel dates to proceed further?\n"}
+{"prompt":"customer: Yes, I will be starting from my location on 06\/29 and return date 07\/01. ->","completion":" Wait a moment please.\n"}
+{"prompt":"customer: Please book a flight within the limit 1000. I will wait. ->","completion":" Hawaiian airlines is available on this route with a ticket fare of 200, shall I book your ticket?\n"}
+{"prompt":"customer: Ok, please book. ->","completion":" Dorothy Turner, your ticket is booked with flight number 1019.\n"}
+{"prompt":"customer: Thank you for helping me with the flight booking and assistance. ->","completion":" Thank you, have a safe journey.\n"}
+{"prompt":"customer: Can you help me to book a flight ticket from ATL to MSP? ->","completion":" Sure, I will help you with that, can you share me your travelling dates?\n"}
+{"prompt":"customer: My preferable journey dates are Nov 28 and Nov 30. ->","completion":" Do you have any connection limit?\n"}
+{"prompt":"customer: Yes, my connection limit is 1. ->","completion":" Can you have any airline preference?\n"}
+{"prompt":"customer: I would like to prefer normal cost airline. ->","completion":" I would like to know your name for booking for a flight ticket?\n"}
+{"prompt":"customer: My name is Samantha Carter. ->","completion":" United Airlines is available with the price of 200 having one connection and economy class. Can I proceed to booking?\n"}
+{"prompt":"customer: Please proceed. ->","completion":" Your ticket is booked with the flight- 1008.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello, how can I guide you for today?\n"}
+{"prompt":"customer: I need to book a ticket from Denver to New York. ->","completion":" Can you please share on what dates you are willing to travel?\n"}
+{"prompt":"customer: Travelling dates are from Feb, 9 to Feb, 11. ->","completion":" Can you please provide your source and destination airport codes?\n"}
+{"prompt":"customer: Airport codes DEN and LGA. ->","completion":" Are you looking for a connecting flight or direct flight?\n"}
+{"prompt":"customer: I prefer connecting flight. ->","completion":" Do you have any class preferences?\n"}
+{"prompt":"customer: I would like to prefer business class. ->","completion":" Do you have any other requirements that you are looking for?\n"}
+{"prompt":"customer: I would like to depart in the afternoon. ->","completion":" Can you please provide your name to proceed further?\n"}
+{"prompt":"customer: My name is Kathleen Collins. ->","completion":" There is a connecting flight with ticket fare 300 in JetBlue airlines in business class. Is it ok for you?\n"}
+{"prompt":"customer: Please book a flight. ->","completion":" Your booking is confirmed with flight number 1014. Departure time is 15:00 hours and arrival time is 17:00 hours.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Thank you for contacting us, have a nice day.\n"}
+{"prompt":"customer: Myself Christine Clark. ->","completion":" Nice to meet you Clark.\n"}
+{"prompt":"customer: I am planning a small weekend trip to DFW, can you help me in booking a ticket from HOU? ->","completion":" Sure, let me know your travelling dates please.\n"}
+{"prompt":"customer: I am planning this trip on 02\/26 and my return will be on 02\/28. ->","completion":" There is a flight available for you in Southwest airline with 1 connection. Shall I proceed with the booking?\n"}
+{"prompt":"customer: That's good, please proceed. ->","completion":" Ok, your ticket is confirmed with the flight number 1001.\n"}
+{"prompt":"customer: Thank you for your help. ->","completion":" It's my pleasure to help you.\n"}
+{"prompt":"customer: Shirley Williams here. ->","completion":" How can I help you?\n"}
+{"prompt":"customer: I'm planning to visit New York, can you book a ticket from DFW to LGA? ->","completion":" May I know your desired travel dates please?\n"}
+{"prompt":"customer: Sure, my planned departure and return travel dates are 8th an 10th of April. ->","completion":" There is a flight with connection limit 1 and fare 100, shall I proceed for booking?\n"}
+{"prompt":"customer: That's fine for me, you can proceed for booking the ticket. ->","completion":" Your ticket is booked, flight number 1001.\n"}
+{"prompt":"customer: Thank you so much for your help. ->","completion":" Thank you for opting us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, What kind of help are you expecting from our side?\n"}
+{"prompt":"customer: Can you please help me in flight ticket booking process from LGA to PHL? ->","completion":" Sure, I am euphoric to help you with booking. May I know on which dates you are planning to start and return?\n"}
+{"prompt":"customer: Thank you for your response, I want to take off on Jan 22 and book my return ticket also on Jan 24. ->","completion":" Do you prefer any way station in between journey?\n"}
+{"prompt":"customer: I will prefer 1 break in between my journey. ->","completion":" May I know your good name please?\n"}
+{"prompt":"customer: Sure, my name is Betty Nelson. ->","completion":" Is there any other specifications regarding your journey?\n"}
+{"prompt":"customer: I want to travel in economy class flight. ->","completion":" Ok, please wait a moment. let me search a flight for you.\n"}
+{"prompt":"customer: Ok. ->","completion":" Thank you for your time, we have found a American airline, flight number-1009, connections-1 and ticket-100. Would you like me to book the ticket?\n"}
+{"prompt":"customer: Please confirm this flight ticket for me. ->","completion":" Sure, a seat has been reserved successfully for a economy class flight.\n"}
+{"prompt":"customer: Thank you for your help. ->","completion":" Thank you for your presence. We hope to serve you again.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello. How best can I serve you today?\n"}
+{"prompt":"customer: I would like to change my reservation due to some health issues, can you please help me out with that? ->","completion":" Sure, I am here to help you with that.\n"}
+{"prompt":"customer: Thank you. ->","completion":" For changing your reservation, we need to know your name to check your reservation status. So, please forward me your name.\n"}
+{"prompt":"customer: Jacob Smith here. ->","completion":" Ok, please wait for a moment.\n"}
+{"prompt":"customer: Sure. ->","completion":" Sorry to inform you that, we have not found any active reservation on your name in our records.\n"}
+{"prompt":"customer: That's ok, no problem. Anyway thank you for checking out. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: I want to cancel my recent reservation, can you please help me with this? ->","completion":" May I know your good name please?\n"}
+{"prompt":"customer: I am John Jackson. ->","completion":" Please give me a moment.\n"}
+{"prompt":"customer: Sure. ->","completion":" There is a reservation found with your given name. Shall I proceed with the cancellation?\n"}
+{"prompt":"customer: Ok, please cancel my booking. ->","completion":" Your ticket has been cancelled.\n"}
+{"prompt":"customer: Thank you for your help. ->","completion":" Thank you for choosing us.\n"}
+{"prompt":"customer: Donna Miller here. Please help me out in booking the ticket from HOU to DTW. ->","completion":" Sure, let me know your travelling dates.\n"}
+{"prompt":"customer: My trip dates will be July 10 to July 12. ->","completion":" Please share your connection limit.\n"}
+{"prompt":"customer: I want a connecting flight. ->","completion":" Is there any other specifications?\n"}
+{"prompt":"customer: My return time must be in the afternoon. ->","completion":" Sorry, there are no flights found based on your details,.\n"}
+{"prompt":"customer: Can you help me to book a flight ticket from EWR to PHL? ->","completion":" Sure, may I know your planned travel dates please?\n"}
+{"prompt":"customer: I want to take off on 11 July and return on 13 July. ->","completion":" May I know your name please?\n"}
+{"prompt":"customer: I am Jennifer Rodriguez. ->","completion":" Do you need a connecting flight or a direct flight?\n"}
+{"prompt":"customer: I am ok with any connecting. ->","completion":" May I know your class preference?\n"}
+{"prompt":"customer: No. ->","completion":" Do you have any other specifications?\n"}
+{"prompt":"customer: No. ->","completion":" I found an economy class in Hawaiian airlines with fare 100 and it has single connection. Can I book your ticket?\n"}
+{"prompt":"customer: Please proceed. ->","completion":" Ok, your booking is confirmed with flight number 1016.\n"}
+{"prompt":"customer: Thanks for helping me. ->","completion":" Thank you for approaching us.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello. How can I aid you?\n"}
+{"prompt":"customer: I need to change my existing reservation as my exams got postponed, Can you please help me with that? ->","completion":" Sure, We are here to help you. May I know your name?\n"}
+{"prompt":"customer: Thank you. Brenda Mitchell here. ->","completion":" Give me a minute.\n"}
+{"prompt":"customer: Sure. ->","completion":" Thank you for waiting, but I am sorry to say that, there is no active reservation found with your name in our database to change it.\n"}
+{"prompt":"customer: Ok, no problem. Thanks for your information. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: I am Pamela Walker here. I am planning to visit a Houston city to meet my grandfather in IAH from LAS. Can you find a flight ticket for me? ->","completion":" Sure Pamela Walker, I will help you with that. Can I have your travel dates please?\n"}
+{"prompt":"customer: Ok, my preferable dates are on 12\/19 and back on 12\/21. ->","completion":" Ok Pamela Walker, please wait a moment to check flight availability.\n"}
+{"prompt":"customer: Sure. ->","completion":" AA airlines running a flight in your route with connection 1 and the fare of the ticket is 200. Shall I proceed with booking?\n"}
+{"prompt":"customer: Yes, you can reserve the ticket. ->","completion":" Ok Pamela Walker, your ticket booking has done and the flight number is 1021.\n"}
+{"prompt":"customer: Thank you for spending your time. ->","completion":" Thank you for choosing us, have a great journey.\n"}
+{"prompt":"customer: Can you please help me in booking a flight ticket from DEN to DTW? ->","completion":" Sure, may I know your planned trip dates?\n"}
+{"prompt":"customer: I would like to fly on Nov 16 and return on Nov 18. ->","completion":" Do you have any connection limit?\n"}
+{"prompt":"customer: I need a single connection. ->","completion":" Any other requirements to be met?\n"}
+{"prompt":"customer: I would like to return in the morning time. ->","completion":" May I know your good name?\n"}
+{"prompt":"customer: Myself David Jones. ->","completion":" Sorry, there are no flights found with your given details.\n"}
+{"prompt":"customer: Not an issue. Thank you. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Jonathan Adams here. ->","completion":" Adams, how may I aid you?\n"}
+{"prompt":"customer: I need to cancel my recent reservation due to snowfall, can you please  guide me? ->","completion":" Sure, please give me a moment to check your ticket status.\n"}
+{"prompt":"customer: Take your time. ->","completion":" Sorry, no reservation is available by your name.\n"}
+{"prompt":"customer: That's not an issue, thank you for helping me. ->","completion":" Thank you for contacting us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello. May I know your good name?\n"}
+{"prompt":"customer: Nancy Phillips here. ->","completion":" Ok. How can I help you? Nancy Phillips.\n"}
+{"prompt":"customer: I am planning to go Washington. Can you do the reservation? ->","completion":" Ok. Can you share your airport codes of both locations?\n"}
+{"prompt":"customer: My airport codes are SFO-DCA. ->","completion":" Ok. Do you have any limitations to travel?\n"}
+{"prompt":"customer: Yes, I need a connecting flight. ->","completion":" Your trip dates, please.\n"}
+{"prompt":"customer: Dates are 01\/16 and 01\/18. ->","completion":" Ok. Basing on your request, we can provide you a UA airline. And your flight number is 1023. May I proceed further?\n"}
+{"prompt":"customer: Carry on. ->","completion":" Ok. Nancy Phillips, your ticket is booked and e-ticket will be generated to your mail.\n"}
+{"prompt":"customer: Thank you, Have a nice day. ->","completion":" Thanks for reaching us, Have a nice day!.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello. How can I  help you?\n"}
+{"prompt":"customer: I am Andrew Martinez. Can you help me booking a flight ticket from JFK to ORD? ->","completion":" Your travelling dates please?\n"}
+{"prompt":"customer: I will start on July, 8 and return on July, 10. ->","completion":" There is a flight with single connection, can I proceed  for booking in 1006 flight?\n"}
+{"prompt":"customer: Please proceed with the booking. ->","completion":" Your booking is done in Delta airlines.\n"}
+{"prompt":"customer: Can you please check for the flights on the route from BOS to DEN? ->","completion":" Sure, can you please provide your departure and arrival dates?\n"}
+{"prompt":"customer: My journey dates are from Oct 20 to Oct 22. ->","completion":" Are you looking for any preferred class?\n"}
+{"prompt":"customer: Any class will be ok but my depart time will be in afternoon. ->","completion":" Do you have any other specifications to be met?\n"}
+{"prompt":"customer: I need 1 connection flight. ->","completion":" Kindly mention your name?\n"}
+{"prompt":"customer: Myself Mark Phillips. ->","completion":" We have found a connected flight of United airlines, flight number-1018 class-economy depart time-afternoon 15:00 PM and fare is 200.\n"}
+{"prompt":"customer: Please book it. ->","completion":" Sure, your ticket has been booked.\n"}
+{"prompt":"customer: Elizabeth Clark here, please cancel my ticket, I have other works on those dates. ->","completion":" Ok, please wait for a moment.\n"}
+{"prompt":"customer: Ok. ->","completion":" There is no reservation found on your name.\n"}
+{"prompt":"customer: Ok, no issues, thank you for your clarification. ->","completion":" Thank you for approaching us, have a nice day. You are welcome.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello, how may I address you?\n"}
+{"prompt":"customer: I am Katherine Edwards. I need to book a flight ticket from DFW to AUS, Can you please help me for booking? ->","completion":" Sure, on what dates are you willing to travel?\n"}
+{"prompt":"customer: I would like to travel on 08\/19 08\/21. ->","completion":" Is there any class preference?\n"}
+{"prompt":"customer: I am comfortable with any class. ->","completion":" How much fare are you expecting?\n"}
+{"prompt":"customer: I can pay up to 500. ->","completion":" Ok, please wait.\n"}
+{"prompt":"customer: Sure. ->","completion":" Thank you for waiting, I regret to inform you that there are no flights obtained on your journey dates to book a flight ticket.\n"}
+{"prompt":"customer: Ok, no problem. Thanks for your information. ->","completion":" Thank you for picking us.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello, how can I serve you today?\n"}
+{"prompt":"customer: Can you please help me in booking a flight ticket to DFW from LAS? ->","completion":" Sure, we are here to assist you.\n"}
+{"prompt":"customer: Thank you. ->","completion":" May I know your planned journey dates?\n"}
+{"prompt":"customer: My travel dates are from Aug 13 to Aug 15. ->","completion":" Do you need any break in your journey?\n"}
+{"prompt":"customer: I need a connecting flight. ->","completion":" Is there any specific time to travel?\n"}
+{"prompt":"customer: No, I do not have any other preferences. ->","completion":" May I know your name please?\n"}
+{"prompt":"customer: I am Donna Allen. ->","completion":" We found a connecting flight with fare of 100 and 1029 flight number. Shall I proceed?\n"}
+{"prompt":"customer: You can proceed. ->","completion":" Your seat has been reserved with Southwest airline in economy class.\n"}
+{"prompt":"customer: Hi, I am Michael Nelson. ->","completion":" Hello,. How can I amend you today?\n"}
+{"prompt":"customer: I would like to attend for prayers in Old North Church at Boston, BOS. Can you please help me with booking a flight ticket from LGA? ->","completion":" Sure, we are here to aid you. Kindly assign your preferred dates of travelling?\n"}
+{"prompt":"customer: Travelling dates are 02\/10 and 02\/12. ->","completion":" Do you have any other specifications?\n"}
+{"prompt":"customer: I need a halt in between the journey. ->","completion":" Thanks for your details. We found a plane 1001 of AA airline with a connecting flight with the fare of 100. Shall I proceed?\n"}
+{"prompt":"customer: You can proceed with booking. ->","completion":" Reservation is done with your name Michael Nelson.\n"}
+{"prompt":"customer: Thanks for the help. ->","completion":" Thank you for availing us, have a blissful day.\n"}
+{"prompt":"customer: I would like to change my existing reservation as my plan to go for a holiday trip got postponed. Can you please help me with this? ->","completion":" Sure, may I know your name please?\n"}
+{"prompt":"customer: My name is Anthony Phillips. ->","completion":" Please wait a moment.\n"}
+{"prompt":"customer: Sure. ->","completion":" Unfortunately there is no reservation found with your given name.\n"}
+{"prompt":"customer: Not a problem, thank you for checking. ->","completion":" Thank you for choosing us.\n"}
+{"prompt":"customer: Hello. I am Robert Campbell. ->","completion":" Hello, how can I help you today?\n"}
+{"prompt":"customer: Can you help me in booking a plane ticket with fare 5000? ->","completion":" Sure, may I know your depart and arrival dates?\n"}
+{"prompt":"customer: I will depart on 03\/12 as I have to attend a technical seminar. After that, my return will be on 03\/14. ->","completion":" May I know your boarding and landing airport codes?\n"}
+{"prompt":"customer: My source code  is Dallas & Fort Worth, DFW and destination point is Detroit, DTW. ->","completion":" Do you have any other requirements?\n"}
+{"prompt":"customer: I need a stopover in between my journey. ->","completion":" OK, please wait for a while.\n"}
+{"prompt":"customer: Ok. ->","completion":" Thanks for waiting. Sorry to say you there is no flight found with your given details.\n"}
+{"prompt":"customer: No problem. Thank you. ->","completion":" Thank you for opting us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello. How may I aid you?\n"}
+{"prompt":"customer: I have a conference in New York, can you help me in booking a ticket? ->","completion":" I will help you with that, can you help me with your airport codes?\n"}
+{"prompt":"customer: My airport codes are from MCO to EWR. ->","completion":" May I know your dates of journey?\n"}
+{"prompt":"customer: My travel dates are 03\/27 and 03\/29. ->","completion":" There is a flight with flight number 1007 with price is 200 and number of connection 1, can I proceed booking?\n"}
+{"prompt":"customer: Yes, please. ->","completion":" Your booking is done in Hawaiian airlines.\n"}
+{"prompt":"customer: Thank you for booking. ->","completion":" May I know your name please?\n"}
+{"prompt":"customer: I am Helen Lewis. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hello, I am Joseph Williams. ->","completion":" Hello, how can I retrofit you?\n"}
+{"prompt":"customer: I planned to visit Botanic garden with my husband at Dallas & Fort worth. Could you please help me with reserving a plane ticket? ->","completion":" That's great to hear, I can certainly help you with that. May I know where is Botanic garden located?\n"}
+{"prompt":"customer: Thank you, It is in Dallas & Fort Worth behind the airport DFW. ->","completion":" Ok, do you need any way station in between the journey points?\n"}
+{"prompt":"customer: Yes, I need a break in between the journey because it gives me more refreshment. ->","completion":" Could you please let me know  when are you planning to make your journey possible?\n"}
+{"prompt":"customer: I have planned to start on 07\/22 and return on 07\/24 from the Botanical garden. ->","completion":" Ok, how much fare are you expecting for your ticket?\n"}
+{"prompt":"customer: I can pay up to 200. ->","completion":" Ok, let me check the availability and revert you.\n"}
+{"prompt":"customer: Sure, I will be waiting for your response which makes me happy. ->","completion":" Thanks for being patience, There is a airline available on your requested dates.\n"}
+{"prompt":"customer: May I know the airline details? ->","completion":" The flight details are flight name: Spirit and flight number: 1022. The amount to be paid for your ticket is 100.\n"}
+{"prompt":"customer: I am happy with this airline, please continue with booking. ->","completion":" Ok, let me save your details. We have booked  a flight that will fit your schedule dates. The tickets will arrive you by mail in few hours.\n"}
+{"prompt":"customer: Thank you for reserving a ticket in best airline. ->","completion":" Thank you for approaching us, we will be there to serve you at any time again.\n"}
+{"prompt":"customer: Hi. Joseph Johnson here. ->","completion":" Hello, how may I aid you today?\n"}
+{"prompt":"customer: Can you book a flight ticket for my airport codes that is from MSP to ATL? ->","completion":" Sure, can you please share me with your dates of journey?\n"}
+{"prompt":"customer: The trip dates are from Dec 04 to Dec 06. ->","completion":" May I know your good name please?\n"}
+{"prompt":"customer: I am Joseph Johnson. ->","completion":" Are you looking for any other help from my side please?\n"}
+{"prompt":"customer: I prefer a stopover flight. ->","completion":" Please wait for a mean while.\n"}
+{"prompt":"customer: Sure. ->","completion":" There is a connecting flight of fare 100 with the Hawaiian airline, are you ok with this booking?\n"}
+{"prompt":"customer: I am fine with the airlines. You can book it. ->","completion":" Ok, I have reserved your ticket with the flight number 1002.\n"}
+{"prompt":"customer: Thank you. ->","completion":" You are welcome, have a safe journey.\n"}
+{"prompt":"customer: Hi. ->","completion":" Hello, how can I assist you today?\n"}
+{"prompt":"customer: I need to change my reservation as my plan to go for trekking got postponed. Can you help me? ->","completion":" Sure, let me know your name.\n"}
+{"prompt":"customer: I am Ryan Mitchell. ->","completion":" Ok, please wait for a while.\n"}
+{"prompt":"customer: Sure. ->","completion":" Sorry to say that, no reservation was found on your name.\n"}
+{"prompt":"customer: That's Ok, thanks for your assistance. ->","completion":" Thank you for choosing us.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello, do you need any assistance from us?\n"}
+{"prompt":"customer: I am Jerry Rodriguez. I would like to book a ticket to HOuston, can you please help me out? ->","completion":" Sure, please tell me your airport codes.\n"}
+{"prompt":"customer: I am travelling on these dates 03\/03 and 03\/05. I am flying from DFW to IAH. ->","completion":" The UA airline with flight number 1003 is available having price as 200 and connection as 1.\n"}
+{"prompt":"customer: Sure, you can proceed with this flight. ->","completion":" Ok,  your reservation is done.\n"}
+{"prompt":"customer: Hi. I am Samuel Baker. ->","completion":" Hello, how may I assist you today?\n"}
+{"prompt":"customer: I want to change my reservation owing an emergency. ->","completion":" Sure, we are glad to serve you. Please wait for a while, let me check your reservation with us.\n"}
+{"prompt":"customer: Ok. ->","completion":" Thanks for your time, unfortunately no reservation found with your name.\n"}
+{"prompt":"customer: Ok, thank you for your service. ->","completion":" Thank you for availing us, have a great day ahead.\n"}
+{"prompt":"customer: Hello. ->","completion":" Hello. How can I aid you?\n"}
+{"prompt":"customer: I am looking to book a flight ticket from DEN to LAX. Can you help me for that? ->","completion":" Sure, We are here to help you. Can I know your travelling dates?\n"}
+{"prompt":"customer: My travelling dates are Dec 13 and Dec 15. ->","completion":" Do you need any break?\n"}
+{"prompt":"customer: I prefer to book a direct flight in my journey. ->","completion":" May I know your name?\n"}
+{"prompt":"customer: My name is Samantha Hall. ->","completion":"  We are unable to provide flight in between your journey routes due to some technical up-gradation at destination airport.\n"}
+{"prompt":"customer: That's ok, thank you for checking. ->","completion":" Thank you for reaching us.\n"}
+{"prompt":"customer: Hello, my name is David Thompson. ->","completion":" Hello David,. How can I help you now?\n"}
+{"prompt":"customer: Due to sudden change in weather where I wanted to visit, I need to cancel the ticket. ->","completion":" Ok sure, please wait a moment. Thank you for waiting. Sorry David, no reservation is found under your name. Thank you for choosing us.\n"}
+{"prompt":"customer: Ok that's fine, thank you for giving a instantaneous response. ->","completion":" You are welcome, have a good day.\n"}
+{"prompt":"customer: I am Melissa Hall. ->","completion":" How can I help you today?\n"}
+{"prompt":"customer: I need your assistance in cancelling my recent reservation, can you help me with it? ->","completion":" Sure, I will help you to cancel your reservation.\n"}
+{"prompt":"customer: Thank you. ->","completion":" Please allow me a moment.\n"}
+{"prompt":"customer: Sure. ->","completion":" Sorry, no reservation found on your name to cancel your reservation.\n"}
+{"prompt":"customer: That's fine, thank you for your information. ->","completion":" Welcome, have a nice day.\n"}
+{"prompt":"customer: Can you aid me in booking a flight ticket from IAD to CLT? ->","completion":" Sure, can I know your travelling dates?\n"}
+{"prompt":"customer: I am planning to start on July 20th and return back on July 22nd. ->","completion":" On which name should I reserve the flight ticket?\n"}
+{"prompt":"customer: Cynthia Scott. ->","completion":" Do you have any connection limit?\n"}
+{"prompt":"customer: Make sure that connection limit is 1. ->","completion":" Do you have any other specifications?\n"}
+{"prompt":"customer: I prefer to travel in economy class. ->","completion":" Sorry, there are no flights found on given dates.\n"}
+{"prompt":"customer: No issues. Thank you for checking. ->","completion":" Thank you for reaching us.\n"}

@@ -1,0 +1,24 @@
+
+<div class="container">
+    <div class="card-body">
+
+       
+        <svg (click)="onClose()" xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-x topright" viewBox="0 0 16 16">
+            <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
+          </svg>
+
+
+        <h1 class="text-center text-primary mb-5 mt-3 display-5" id="pageTitle">Edit Bot</h1>
+
+      
+            <div class="my-4">
+                <p class="text-muted">Bot Name:</p>
+
+                <input  type="text" class="form-control" id="Name"  [value]="bot_details.title" [(ngModel)]="new_bot_name">
+     </div>
+            
+
+           
+            <button type="submit" class="btn btn-success btn-block mt-5" (click)="edit()" [disabled]="new_bot_name ==='' || new_bot_name===bot_details.title">Edit</button>
+    </div>
+</div>
